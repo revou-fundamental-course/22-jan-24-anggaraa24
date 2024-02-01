@@ -1,0 +1,3313 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>You searched for wireframes - The Moqups Blog | Mockup, Wireframe &amp; UI Prototyping News</title>
+	<atom:link href="https://moqups.com/search/wireframes/feed/rss2/" rel="self" type="application/rss+xml" />
+	<link>https://moqups.com/blog/</link>
+	<description>The Moqups Blog offers the latest mockup, wireframe, and UI prototyping news for teams. Powered by Moqups, your online collaborative design tool.</description>
+	<lastBuildDate>Tue, 02 May 2023 15:17:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>What’s New: March 27, 2023</title>
+		<link>https://moqups.com/blog/whats-new-march-27-2023/</link>
+		
+		<dc:creator><![CDATA[Moqups Team]]></dc:creator>
+		<pubDate>Mon, 27 Mar 2023 17:35:53 +0000</pubDate>
+				<category><![CDATA[Release notes]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://moqups.com/blog/?p=3960</guid>
+
+					<description><![CDATA[<p>Spring Arrivals: Instantly format pasted data, replace color in selection, new icon packs, freehand highlighter, lo-fi placeholder text stencil, plus more great templates</p>
+<p>The post <a href="https://moqups.com/blog/whats-new-march-27-2023/">What’s New: March 27, 2023</a> appeared first on <a href="https://moqups.com/blog">The Moqups Blog | Mockup, Wireframe &amp; UI Prototyping News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">6 New Features</h2>
+
+
+
+<h3 class="wp-block-heading">Paste lists and CSV data in Table, Note, Flowchart or Text formats</h3>
+
+
+
+<p>We’ve made it faster and easier to translate lists and data into usable elements. That way, you can skip the tedious repetitive stuff and get on with your work.</p>
+
+
+
+<p>With our new <a href="https://support.moqups.com/hc/en-us/articles/360012488780-Text-Stencils#stencils_PIF">Paste in Format</a> feature, you can instantly turn text lists or CSV data into populated tables, whiteboards, and diagrams. Just copy the data and paste it onto the Moqups page. Then, choose how you want to display your clipboard data in the Pick a Format pop-up.</p>
+
+
+
+<figure class="wp-block-video">
+<video autoplay loop muted preload="auto" playsinline>
+<source src="https://moqups.com/blog/wp-content/uploads/2023/03/List_pasted_as_notes.mp4" type="video/mp4">
+</video>
+</figure>
+
+
+
+<h3 class="wp-block-heading">New Icon Packs</h3>
+
+
+
+<p>We’ve had several requests for more<a href="https://support.moqups.com/hc/en-us/sections/115000798809-Icons"> icon sets</a>. So, this month, we’ve added the Kubernetes, Google Cloud, and Cisco packs for those folks working in Network and Cloud infrastructure:</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="590" src="https://moqups.com/blog/wp-content/uploads/2023/03/Icon-Sets-1024x590.png" alt="" class="wp-image-3965" srcset="https://moqups.com/blog/wp-content/uploads/2023/03/Icon-Sets-1024x590.png 1024w, https://moqups.com/blog/wp-content/uploads/2023/03/Icon-Sets-300x173.png 300w, https://moqups.com/blog/wp-content/uploads/2023/03/Icon-Sets-768x443.png 768w, https://moqups.com/blog/wp-content/uploads/2023/03/Icon-Sets-1536x885.png 1536w, https://moqups.com/blog/wp-content/uploads/2023/03/Icon-Sets-2048x1180.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Kubernetes, Google Cloud, and Cisco icon packs</figcaption></figure>
+
+
+
+<p>And, for the gaming community, we’ve also added the RPG Awesome kit.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="590" src="https://moqups.com/blog/wp-content/uploads/2023/03/RPG_Awesome_Gaming_Icons-1024x590.png" alt="" class="wp-image-3975" srcset="https://moqups.com/blog/wp-content/uploads/2023/03/RPG_Awesome_Gaming_Icons-1024x590.png 1024w, https://moqups.com/blog/wp-content/uploads/2023/03/RPG_Awesome_Gaming_Icons-300x173.png 300w, https://moqups.com/blog/wp-content/uploads/2023/03/RPG_Awesome_Gaming_Icons-768x442.png 768w, https://moqups.com/blog/wp-content/uploads/2023/03/RPG_Awesome_Gaming_Icons-1536x884.png 1536w, https://moqups.com/blog/wp-content/uploads/2023/03/RPG_Awesome_Gaming_Icons-2048x1179.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">RPG Awesome icon kit</figcaption></figure>
+
+
+
+<h3 class="wp-block-heading">Highlighter Drawing Mode</h3>
+
+
+
+<p>By popular demand, we’ve added a freehand highlighter to our <a href="https://support.moqups.com/hc/en-us/articles/360012586599-Search-Add#stencils_quick_draw">Quick Draw toolkit</a>. You can activate the highlighter from the dropdown in the top-toolbar, or by using the Shift + H&nbsp; keyboard shortcut.</p>
+
+
+
+<figure class="wp-block-video">
+<video autoplay loop muted preload="auto" playsinline>
+<source src="https://moqups.com/blog/wp-content/uploads/2023/03/HighlightTools.mp4" type="video/mp4">
+</video>
+</figure>
+
+
+
+<h3 class="wp-block-heading">Placeholder Text</h3>
+
+
+
+<p>If you’re just starting to layout your app or webpage, you may be working in very <a href="https://moqups.com/blog/low-fidelity-vs-high-fidelity-wireframes/">low-fidelity</a>. In those circumstances, all you really want are shapes as placeholders, and even our Lorem Ipsum stencil might have too much fidelity for your purposes.</p>
+
+
+
+<p>That’s where our new Placeholder Text stencil comes in. It represents your future copy as a mere blob of text, and is perfect for visualizing optimal text density, placement and configuration – before you start to write your content.</p>
+
+
+
+<figure class="wp-block-video">
+<video autoplay loop muted preload="auto" playsinline>
+<source src="https://moqups.com/blog/wp-content/uploads/2023/03/Text_Placeholder_stencil.mp4" type="video/mp4">
+</video>
+</figure>
+
+
+
+<h3 class="wp-block-heading">Replace Colors in Selection</h3>
+
+
+
+<p>With Moqups, you could always <a href="https://support.moqups.com/hc/en-us/articles/360012487180-General-Formatting#stencils_replace_color">replace colors</a> throughout a project, or on a page. But now you can also replace a color within a selection or group of objects. This makes it especially easy to apply branded color schemes to grouped elements as your team moves from lo-fi wireframe to mid or hi-fi mockup.</p>
+
+
+
+<figure class="wp-block-video">
+<video autoplay loop muted preload="auto" playsinline>
+<source src="https://moqups.com/blog/wp-content/uploads/2023/03/Replace_color_within_selection.mp4" type="video/mp4">
+</video>
+</figure>
+
+
+
+<h3 class="wp-block-heading">More, Better Pre-Made Templates</h3>
+
+
+
+<p>Here’s the latest in our ongoing work to refresh and expand our pre-designed templates. To make it easier to find our latest additions and template bundles, we’ve added ‘New’ and ‘Premium’ badges to the <a href="https://support.moqups.com/hc/en-us/articles/6298448802322-Moqups-Templates">template picker</a>. Just type ‘new’ or ‘premium’ into the Search input to check them out.</p>
+
+
+
+<h4 class="wp-block-heading">New Templates</h4>
+
+
+
+<ul>
+<li>Tier List, Event Floor Plan, Now-Next-Later Roadmap, E-Commerce Shop Wireframe, UX Flow Chart</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading">Revamped Templates</h4>
+
+
+
+<ul>
+<li>Four L&#8217;s Retrospective, 5 Why&#8217;s Analysis, Business Model Canvas, KWL Chart, Mobile App Landing Page Wireframe, Johari Window, SIPOC Diagram, Daily Stand-up Meeting, Value Stream Map</li>
+</ul>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="590" src="https://moqups.com/blog/wp-content/uploads/2023/03/Premade_Moqups_templates-1024x590.png" alt="" class="wp-image-3979" srcset="https://moqups.com/blog/wp-content/uploads/2023/03/Premade_Moqups_templates-1024x590.png 1024w, https://moqups.com/blog/wp-content/uploads/2023/03/Premade_Moqups_templates-300x173.png 300w, https://moqups.com/blog/wp-content/uploads/2023/03/Premade_Moqups_templates-768x443.png 768w, https://moqups.com/blog/wp-content/uploads/2023/03/Premade_Moqups_templates.png 1393w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">6 Improvements</h2>
+
+
+
+<ul>
+<li>Projects:
+<ul>
+<li>The Color-Picker and Replace Colors feature now show drop-shadow colors as part of the Project Colors palette.</li>
+</ul>
+</li>
+</ul>
+
+
+
+<ul>
+<li>Diagrams:
+<ul>
+<li>When diagram connectors snap to grouped objects, they now attach to whichever object is arranged to the front, rather than the largest object in the group.</li>
+</ul>
+</li>
+</ul>
+
+
+
+<ul>
+<li>Pages:
+<ul>
+<li>When you add an image to an empty page that’s smaller than the image, the page size automatically expands to accommodate your image.</li>
+</ul>
+</li>
+</ul>
+
+
+
+<ul>
+<li>Stencils:
+<ul>
+<li>We’ve optimized the size of compound stencils (including Material Design) to make working with those objects faster and easier.</li>
+</ul>
+</li>
+</ul>
+
+
+
+<ul>
+<li>Export:
+<ul>
+<li>Because of possible issues when exporting large numbers of pages to PDF, you now receive a warning to limit PDF exports to 150 pages.</li>
+</ul>
+</li>
+</ul>
+
+
+
+<ul>
+<li>Fonts:
+<ul>
+<li>New Google fonts update.</li>
+</ul>
+</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">5 Bug Fixes</h2>
+
+
+
+<ul>
+<li>Project Contributors will now have access to their own personal Account assets&nbsp;(templates or images), as well as the assets for the specific Project they’re working on.</li>
+
+
+
+<li>Template bundles now import in the correct page order.</li>
+
+
+
+<li>Fixed a bug that occasionally caused the pasting of a valid Moqups object to appear as JSON data if the user had a text object selected.</li>
+
+
+
+<li>Removing the sample content from the Note stencil now removes the Checklist formatting as well.</li>
+
+
+
+<li>Fixed a bug that caused the image Replace feature to malfunction on images pasted directly to the page.</li>
+</ul>
+<p>The post <a href="https://moqups.com/blog/whats-new-march-27-2023/">What’s New: March 27, 2023</a> appeared first on <a href="https://moqups.com/blog">The Moqups Blog | Mockup, Wireframe &amp; UI Prototyping News</a>.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://moqups.com/blog/wp-content/uploads/2023/03/List_pasted_as_notes.mp4" length="656909" type="video/mp4" />
+<enclosure url="https://moqups.com/blog/wp-content/uploads/2023/03/Text_Placeholder_stencil.mp4" length="752874" type="video/mp4" />
+<enclosure url="https://moqups.com/blog/wp-content/uploads/2023/03/Replace_color_within_selection.mp4" length="751135" type="video/mp4" />
+<enclosure url="https://moqups.com/blog/wp-content/uploads/2023/03/HighlightTools.mp4" length="1754065" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>Get Started With Moqups</title>
+		<link>https://moqups.com/blog/get-started-with-moqups/</link>
+		
+		<dc:creator><![CDATA[Moqups Team]]></dc:creator>
+		<pubDate>Mon, 07 Nov 2022 15:55:48 +0000</pubDate>
+				<category><![CDATA[Education]]></category>
+		<category><![CDATA[Data Visualization]]></category>
+		<category><![CDATA[Diagramming]]></category>
+		<category><![CDATA[whiteboarding]]></category>
+		<category><![CDATA[Wireframing]]></category>
+		<guid isPermaLink="false">https://moqups.com/blog/?p=3581</guid>
+
+					<description><![CDATA[<p>Curious about what you can do with Moqups? Here's a quick overview of our tools, features and functionalities to help you get started!</p>
+<p>The post <a href="https://moqups.com/blog/get-started-with-moqups/">Get Started With Moqups</a> appeared first on <a href="https://moqups.com/blog">The Moqups Blog | Mockup, Wireframe &amp; UI Prototyping News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>To get the most out of Moqups, take a look at each of the following categories or, if you already know what you want, click on a link to jump to your use case:</p>
+
+
+
+<ul>
+<li><a href="#wireframing">Wireframing</a></li>
+
+
+
+<li><a href="#diagramming">Diagramming</a></li>
+
+
+
+<li><a href="#whiteboarding">Whiteboarding</a></li>
+
+
+
+<li><a href="#data-visualization">Data Visualization</a></li>
+</ul>
+
+
+
+<h2 class="wp-block-heading" id="wireframing">Begin with a Wireframe</h2>
+
+
+
+<p>New to wireframing or just new to Moqups? Either way, here are some key tips and tools to help get you going – and save you time!</p>
+
+
+
+<h3 class="wp-block-heading">1. Jump-start your wireframe project with a template</h3>
+
+
+
+<p>Don&#8217;t want to start from scratch? Our multi-page <a href="https://moqups.com/templates/wireframes-mockups/" target="_blank" rel="noreferrer noopener">template bundles</a> have all the elements you need to create landing pages, admin dashboards, mobile apps, or e-commerce sites.</p>
+
+
+
+<figure class="wp-block-video">
+<video autoplay loop muted preload="auto" playsinline>
+<source src="https://moqups.com/blog/wp-content/uploads/2023/01/Insert-Wireframe-Template-3.webm" type="video/webm">
+<source src="https://moqups.com/blog/wp-content/uploads/2023/01/Insert-Wireframe-Template-3.mp4" type="video/mp4">
+</video>
+</figure>
+
+
+
+<h3 class="wp-block-heading">2. Sketch out ideas</h3>
+
+
+
+<p>Use our <a href="https://support.moqups.com/hc/en-us/articles/360012491480-Shapes#shapes_QD" target="_blank" rel="noreferrer noopener">Quick Draw</a> toolkit to get ideas out of your head and onto the page – fast! Add shapes, text, connectors and interactive hotspots, or just draw freeform.</p>
+
+
+
+<figure class="wp-block-video">
+<video autoplay loop muted preload="auto" playsinline>
+<source src="https://moqups.com/blog/wp-content/uploads/2023/01/Quick-Draw-Onboarding-Emails-copy-1.webm" type="video/webm">
+<source src="https://moqups.com/blog/wp-content/uploads/2023/01/Quick-Draw-Onboarding-Emails-copy-1.mp4" type="video/mp4">
+</video>
+</figure>
+
+
+
+<h3 class="wp-block-heading">3. Build up your wireframe</h3>
+
+
+
+<p>Find everything you need – stencils, icons, and UI elements – to create rough-draft mockups or detailed wireframes.</p>
+
+
+
+<figure class="wp-block-video">
+<video autoplay loop muted preload="auto" playsinline>
+<source src="https://moqups.com/blog/wp-content/uploads/2023/01/Build-Wireframe-1.webm" type="video/webm">
+<source src="https://moqups.com/blog/wp-content/uploads/2023/01/Build-Wireframe-1.mp4" type="video/mp4">
+</video>
+</figure>
+
+
+
+<h3 class="wp-block-heading">4. Refine your design</h3>
+
+
+
+<p>Add brand logos and customize colors, fonts, and style to polish your wireframe and make it presentation-ready.</p>
+
+
+
+<figure class="wp-block-video">
+<video autoplay loop muted preload="auto" playsinline>
+<source src="https://moqups.com/blog/wp-content/uploads/2023/01/Style.webm" type="video/webm">
+<source src="https://moqups.com/blog/wp-content/uploads/2023/01/Style.mp4" type="video/mp4">
+</video>
+</figure>
+
+
+
+<h2 class="wp-block-heading" id="diagramming">Diagram Anything</h2>
+
+
+
+<p>As you map out your first diagram in Moqups, here&#8217;s a super-quick orientation to help you find everything you&#8217;ll need.</p>
+
+
+
+<h3 class="wp-block-heading">1. Save time with a diagram template</h3>
+
+
+
+<p>We have all kinds of ready-to-go <a href="https://moqups.com/templates/diagrams-flowcharts/" target="_blank" rel="noreferrer noopener">templates</a> that can help you kickstart your diagram. Find one that fits your needs – then customize it and make it your own!</p>
+
+
+
+<figure class="wp-block-video">
+<video autoplay loop muted preload="auto" playsinline>
+<source src="https://moqups.com/blog/wp-content/uploads/2023/01/Insert-Diagram-Template-2.webm" type="video/webm">
+<source src="https://moqups.com/blog/wp-content/uploads/2023/01/Insert-Diagram-Template-2.mp4" type="video/mp4">
+</video>
+</figure>
+
+
+
+<h3 class="wp-block-heading">2. Find all the shapes you need</h3>
+
+
+
+<p>Choose from our <a href="https://support.moqups.com/hc/en-us/articles/360012593539-Diagrams-Flowcharts#diagram_categories" target="_blank" rel="noreferrer noopener">comprehensive library </a>of industry recognized flowchart symbols for UML, Use Case, ERD Model, and Process Flow diagrams.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="564" src="https://moqups.com/blog/wp-content/uploads/2022/11/Diagram_Stencils-1-1024x564.png" alt="" class="wp-image-3654" srcset="https://moqups.com/blog/wp-content/uploads/2022/11/Diagram_Stencils-1-1024x564.png 1024w, https://moqups.com/blog/wp-content/uploads/2022/11/Diagram_Stencils-1-300x165.png 300w, https://moqups.com/blog/wp-content/uploads/2022/11/Diagram_Stencils-1-768x423.png 768w, https://moqups.com/blog/wp-content/uploads/2022/11/Diagram_Stencils-1-1536x846.png 1536w, https://moqups.com/blog/wp-content/uploads/2022/11/Diagram_Stencils-1.png 1594w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h3 class="wp-block-heading">3. Drag, drop and connect</h3>
+
+
+
+<p>Our <a href="https://support.moqups.com/hc/en-us/articles/360012593539-Diagrams-Flowcharts#diagram_connector\" target="_blank" rel="noreferrer noopener">smart connectors</a> will stay untangled as you build out your flow and move things around. Pick the right start-and-end markers and add some quick labels for extra clarity.</p>
+
+
+
+<figure class="wp-block-video">
+<video autoplay loop muted preload="auto" playsinline>
+<source src="https://moqups.com/blog/wp-content/uploads/2023/01/Diagram-drag-drop-and-connect.webm" type="video/webm">
+<source src="https://moqups.com/blog/wp-content/uploads/2023/01/Diagram-drag-drop-and-connect.mp4" type="video/mp4">
+</video>
+</figure>
+
+
+
+<h3 class="wp-block-heading">4. Extend, replace and style</h3>
+
+
+
+<p>You can <a href="https://support.moqups.com/hc/en-us/articles/360012593539-Diagrams-Flowcharts#diagram_extender" target="_blank" rel="noreferrer noopener">expand your flows</a> automatically, with one fast click, and drop-to-swap shapes as your diagram evolves. Then, just color and style your diagram and you&#8217;re ready for prime time!</p>
+
+
+
+<figure class="wp-block-video">
+<video autoplay loop muted preload="auto" playsinline>
+<source src="https://moqups.com/blog/wp-content/uploads/2023/01/Diagram-Extenders-OE-copy.webm" type="video/webm">
+<source src="https://moqups.com/blog/wp-content/uploads/2023/01/Diagram-Extenders-OE-copy.mp4" type="video/mp4">
+</video>
+</figure>
+
+
+
+<h2 class="wp-block-heading" id="whiteboarding">Whiteboard Live With Your Team</h2>
+
+
+
+<p>Moqups has all the tools you need to strategize, share ideas, and collaborate in real time, and here&#8217;s how they work!</p>
+
+
+
+<h3 class="wp-block-heading">1. Strategize with a framework</h3>
+
+
+
+<p>Learn from best-practices by starting with our prebuilt frameworks, boards, maps, and agendas. Organize brainstorming sessions, run virtual workshops, or manage agile workflows.</p>
+
+
+
+<figure class="wp-block-video">
+<video autoplay loop muted preload="auto" playsinline>
+<source src="https://moqups.com/blog/wp-content/uploads/2023/01/Insert-Whiteboard-Template-4.webm" type="video/webm">
+<source src="https://moqups.com/blog/wp-content/uploads/2023/01/Insert-Whiteboard-Template-4.mp4" type="video/mp4">
+</video>
+</figure>
+
+
+
+<h3 class="wp-block-heading">2. Notes, annotations and emojis</h3>
+
+
+
+<p>Your team can capture ideas, feedback and reactions – in real time – by adding sticky notes, images, annotations, icons and emojis.</p>
+
+
+
+<figure class="wp-block-video">
+<video autoplay loop muted preload="auto" playsinline>
+<source src="https://moqups.com/blog/wp-content/uploads/2023/01/Annotations.webm" type="video/webm">
+<source src="https://moqups.com/blog/wp-content/uploads/2023/01/Annotations.mp4" type="video/mp4">
+</video>
+</figure>
+
+
+
+<h3 class="wp-block-heading">3. Smart-add arrows</h3>
+
+
+
+<p>Maintain momentum and expand on ideas at the speed of thought. Smart-add arrows help your team keep up with the flow of ideas, no matter how fast.</p>
+
+
+
+<figure class="wp-block-video">
+<video autoplay loop muted preload="auto" playsinline>
+<source src="https://moqups.com/blog/wp-content/uploads/2023/01/Smart-Add-Notes-4.webm" type="video/webm">
+<source src="https://moqups.com/blog/wp-content/uploads/2023/01/Smart-Add-Notes-4.mp4" type="video/mp4">
+</video>
+</figure>
+
+
+
+<h3 class="wp-block-heading">4. Live presence and cursor</h3>
+
+
+
+<p>When you&#8217;re collaborating, just click on a teammate&#8217;s avatar to jump to where they&#8217;re working. Or use Live Chat to pull everyone together for quick consensus.</p>
+
+
+
+<figure class="wp-block-video">
+<video autoplay loop muted preload="auto" playsinline>
+<source src="https://moqups.com/blog/wp-content/uploads/2023/01/Follow-Cursor.webm" type="video/webm">
+<source src="https://moqups.com/blog/wp-content/uploads/2023/01/Follow-Cursor.mp4" type="video/mp4">
+</video>
+</figure>
+
+
+
+<h2 class="wp-block-heading" id="data-visualization">Visualize Data for Dashboards</h2>
+
+
+
+<p>Our chart and graph-maker lets you put the &#8216;art&#8217; in your chart, make numbers beautiful, and turn raw data into compelling stories and dashboards.</p>
+
+
+
+<h3 class="wp-block-heading">1. Begin with a chart or graph template</h3>
+
+
+
+<p>Pick from more than 100 professionally designed templates and chart types for all kinds of use cases. No need to start from scratch – although you can drag and drop to do that too!</p>
+
+
+
+<figure class="wp-block-video">
+<video autoplay loop muted preload="auto" playsinline>
+<source src="https://moqups.com/blog/wp-content/uploads/2023/01/Insert-Chart-Template.webm" type="video/webm">
+<source src="https://moqups.com/blog/wp-content/uploads/2023/01/Insert-Chart-Template.mp4" type="video/mp4">
+</video>
+</figure>
+
+
+
+<h3 class="wp-block-heading">2. Add your data set in seconds</h3>
+
+
+
+<p>Need a quick visualization for your latest stats? Enter data into our fully editable table, or paste directly from a CSV and you&#8217;re good to go!</p>
+
+
+
+<figure class="wp-block-video">
+<video autoplay loop muted preload="auto" playsinline>
+<source src="https://moqups.com/blog/wp-content/uploads/2023/01/Add-Chart-Data.webm" type="video/webm">
+<source src="https://moqups.com/blog/wp-content/uploads/2023/01/Add-Chart-Data.mp4" type="video/mp4">
+</video>
+</figure>
+
+
+
+<h3 class="wp-block-heading">3. Experiment to find the right chart</h3>
+
+
+
+<p>Find the visualization that works best for your data and audience with our new quick-switch buttons. It only takes a single click to find the chart that clicks!</p>
+
+
+
+<figure class="wp-block-video">
+<video autoplay loop muted preload="auto" playsinline>
+<source src="https://moqups.com/blog/wp-content/uploads/2023/01/Change-Chart.webm" type="video/webm">
+<source src="https://moqups.com/blog/wp-content/uploads/2023/01/Change-Chart.mp4" type="video/mp4">
+</video>
+</figure>
+
+
+
+<h3 class="wp-block-heading">4. Customize and share your graphs</h3>
+
+
+
+<p>Customize to fit the context of your dashboard or report with lightning-fast controls. Present to your team, share links online, post to social media, or export to PNG and PDF.</p>
+
+
+
+<figure class="wp-block-video">
+<video autoplay loop muted preload="auto" playsinline>
+<source src="https://moqups.com/blog/wp-content/uploads/2023/01/Chart-Customise.webm" type="video/webm">
+<source src="https://moqups.com/blog/wp-content/uploads/2023/01/Chart-Customise.mp4" type="video/mp4">
+</video>
+</figure>
+
+
+
+<h2 class="wp-block-heading">Get instant answers</h2>
+
+
+
+<p>If you want to dig deeper into these, or any other Moqups features, search our <a href="https://support.moqups.com/hc/en-us" target="_blank" rel="noreferrer noopener">Help Center</a> for step-by-step guides to get you going.</p>
+
+
+
+<p></p>
+
+
+
+<p>And don’t forget, our support team is just a click away at <a href="mailto:support@moqups.com" target="_blank" rel="noreferrer noopener">support@moqups.com</a>.</p>
+<p>The post <a href="https://moqups.com/blog/get-started-with-moqups/">Get Started With Moqups</a> appeared first on <a href="https://moqups.com/blog">The Moqups Blog | Mockup, Wireframe &amp; UI Prototyping News</a>.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://moqups.com/blog/wp-content/uploads/2023/01/Insert-Wireframe-Template-3.webm" length="173795" type="video/webm" />
+<enclosure url="https://moqups.com/blog/wp-content/uploads/2023/01/Insert-Wireframe-Template-3.mp4" length="286221" type="video/mp4" />
+<enclosure url="https://moqups.com/blog/wp-content/uploads/2023/01/Quick-Draw-Onboarding-Emails-copy-1.webm" length="172751" type="video/webm" />
+<enclosure url="https://moqups.com/blog/wp-content/uploads/2023/01/Quick-Draw-Onboarding-Emails-copy-1.mp4" length="175652" type="video/mp4" />
+<enclosure url="https://moqups.com/blog/wp-content/uploads/2023/01/Build-Wireframe-1.webm" length="215360" type="video/webm" />
+<enclosure url="https://moqups.com/blog/wp-content/uploads/2023/01/Build-Wireframe-1.mp4" length="251237" type="video/mp4" />
+<enclosure url="https://moqups.com/blog/wp-content/uploads/2023/01/Style.webm" length="225668" type="video/webm" />
+<enclosure url="https://moqups.com/blog/wp-content/uploads/2023/01/Style.mp4" length="306603" type="video/mp4" />
+<enclosure url="https://moqups.com/blog/wp-content/uploads/2023/01/Insert-Diagram-Template-2.webm" length="137107" type="video/webm" />
+<enclosure url="https://moqups.com/blog/wp-content/uploads/2023/01/Insert-Diagram-Template-2.mp4" length="348528" type="video/mp4" />
+<enclosure url="https://moqups.com/blog/wp-content/uploads/2023/01/Diagram-drag-drop-and-connect.webm" length="148507" type="video/webm" />
+<enclosure url="https://moqups.com/blog/wp-content/uploads/2023/01/Diagram-drag-drop-and-connect.mp4" length="139003" type="video/mp4" />
+<enclosure url="https://moqups.com/blog/wp-content/uploads/2023/01/Diagram-Extenders-OE-copy.webm" length="150944" type="video/webm" />
+<enclosure url="https://moqups.com/blog/wp-content/uploads/2023/01/Diagram-Extenders-OE-copy.mp4" length="197907" type="video/mp4" />
+<enclosure url="https://moqups.com/blog/wp-content/uploads/2023/01/Insert-Whiteboard-Template-4.webm" length="168734" type="video/webm" />
+<enclosure url="https://moqups.com/blog/wp-content/uploads/2023/01/Insert-Whiteboard-Template-4.mp4" length="283767" type="video/mp4" />
+<enclosure url="https://moqups.com/blog/wp-content/uploads/2023/01/Annotations.webm" length="129474" type="video/webm" />
+<enclosure url="https://moqups.com/blog/wp-content/uploads/2023/01/Annotations.mp4" length="193029" type="video/mp4" />
+<enclosure url="https://moqups.com/blog/wp-content/uploads/2023/01/Smart-Add-Notes-4.webm" length="58495" type="video/webm" />
+<enclosure url="https://moqups.com/blog/wp-content/uploads/2023/01/Smart-Add-Notes-4.mp4" length="69069" type="video/mp4" />
+<enclosure url="https://moqups.com/blog/wp-content/uploads/2023/01/Follow-Cursor.webm" length="144969" type="video/webm" />
+<enclosure url="https://moqups.com/blog/wp-content/uploads/2023/01/Follow-Cursor.mp4" length="204307" type="video/mp4" />
+<enclosure url="https://moqups.com/blog/wp-content/uploads/2023/01/Insert-Chart-Template.webm" length="136464" type="video/webm" />
+<enclosure url="https://moqups.com/blog/wp-content/uploads/2023/01/Insert-Chart-Template.mp4" length="225243" type="video/mp4" />
+<enclosure url="https://moqups.com/blog/wp-content/uploads/2023/01/Add-Chart-Data.webm" length="100174" type="video/webm" />
+<enclosure url="https://moqups.com/blog/wp-content/uploads/2023/01/Add-Chart-Data.mp4" length="116751" type="video/mp4" />
+<enclosure url="https://moqups.com/blog/wp-content/uploads/2023/01/Change-Chart.webm" length="66535" type="video/webm" />
+<enclosure url="https://moqups.com/blog/wp-content/uploads/2023/01/Change-Chart.mp4" length="80414" type="video/mp4" />
+<enclosure url="https://moqups.com/blog/wp-content/uploads/2023/01/Chart-Customise.webm" length="186932" type="video/webm" />
+<enclosure url="https://moqups.com/blog/wp-content/uploads/2023/01/Chart-Customise.mp4" length="219154" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>What is a wireframe?</title>
+		<link>https://moqups.com/blog/what-is-a-wireframe/</link>
+		
+		<dc:creator><![CDATA[Moqups Team]]></dc:creator>
+		<pubDate>Fri, 07 Oct 2022 11:32:36 +0000</pubDate>
+				<category><![CDATA[Education]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[UX Design]]></category>
+		<category><![CDATA[Wireframing]]></category>
+		<guid isPermaLink="false">https://moqups.com/blog/?p=3528</guid>
+
+					<description><![CDATA[<p>Discover why wireframing is so important in UX design, and how teams use wireframes to speed workflow, boost collaboration, and create better products.</p>
+<p>The post <a href="https://moqups.com/blog/what-is-a-wireframe/">What is a wireframe?</a> appeared first on <a href="https://moqups.com/blog">The Moqups Blog | Mockup, Wireframe &amp; UI Prototyping News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>In the world of websites and mobile apps, a wireframe is a monochromatic, low-fidelity design that acts as a rough draft of the final product.</p>
+
+
+
+<p>UX designers, founders, business analysts, and product managers use wireframes to work out fundamentals – like page layout, user flow, and information hierarchy – before adding high-fidelity elements like colors and branding.</p>
+
+
+
+<p>So whether you’re a beginner looking to create your first wireframe, or an experienced UX designer looking for a quick primer, we’ve put together this guide to help you better understand both the wireframe’s purpose and its value in a design process.</p>
+
+
+
+<p>Here’s what we’ll cover:</p>
+
+
+
+<ul><li><a href="#wireframe-definition">A definition of wireframing</a></li><li><a href="#wireframes-in-UX">What are wireframes in UX?</a></li><li><a href="#wireframe-mockup-prototype">Wireframe vs mockup vs prototype</a></li><li><a href="#why-use-wireframes">Why should you use wireframes?</a></li><li><a href="#how-to-create-website-wireframe">How do you create a website wireframe?</a></li><li><a href="#wireframe-examples">Wireframe examples that you can edit</a></li><li><a href="#conclusion">Conclusion</a></li></ul>
+
+
+
+<h2 class="wp-block-heading" id="wireframe-definition">A definition of wireframing</h2>
+
+
+
+<p>A wireframe typically consists of generic placeholders like simple shapes and lorem ipsum text that can help teams focus on basic decisions about information architecture and functionality rather than polished design elements.</p>
+
+
+
+<p>This lack of detail makes wireframing valuable in the early stages of the design process, as teams decide how to bring the concept to life – and figure out what the screens or webpages should look like.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="656" src="https://moqups.com/blog/wp-content/uploads/2022/10/Graphic_1-1-1-1024x656.png" alt="Wireframe example " class="wp-image-3533" srcset="https://moqups.com/blog/wp-content/uploads/2022/10/Graphic_1-1-1-1024x656.png 1024w, https://moqups.com/blog/wp-content/uploads/2022/10/Graphic_1-1-1-300x192.png 300w, https://moqups.com/blog/wp-content/uploads/2022/10/Graphic_1-1-1-768x492.png 768w, https://moqups.com/blog/wp-content/uploads/2022/10/Graphic_1-1-1-1536x984.png 1536w, https://moqups.com/blog/wp-content/uploads/2022/10/Graphic_1-1-1.png 1802w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Because they’re so quick and easy to create, low-fidelity wireframes help teams explore competing design options and experiment freely, before investing time and resources in a final, high-fidelity prototype.</p>
+
+
+
+<h2 class="wp-block-heading" id="wireframes-in-UX">What are wireframes in UX?</h2>
+
+
+
+<p>In mobile app and web design, UX (User Experience) and UI (User Interface) are related but distinct concepts. Although there’s a lot of overlap, and both contribute to how satisfied customers are with a product, here’s the basic distinction:</p>
+
+
+
+<ul><li>UX design focuses on the functionality and usability of a product, guaranteeing that it’s easy to use, works as expected, and meets the user’s needs. We’ve all used products that were aesthetically beautiful, but a pain to use in practice. That’s a failure of user experience design.</li><li>UI design focuses on the look and feel of a product, especially how those aesthetics contribute to delight for the user and a faithful expression of the brand. For instance, we’ve all used terrifically functional products that, nevertheless, looked and felt utterly uninspiring. That’s a failure of the user interface design.</li></ul>
+
+
+
+<p>When both the UX and UI have been well designed, a product looks stunning and feels great to use.</p>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button aligncenter"><a class="wp-block-button__link wp-element-button" href="https://moqups.com/">Learn more about Moqups</a></div>
+</div>
+
+
+
+<p>Although UX design plays a role throughout the entire design process, it is particularly important in the early stages. That’s when design teams and their stakeholders make the most fundamental decisions about the product’s design, functionality and user flow.</p>
+
+
+
+<p>Because wireframes are quick to build and easy to modify, they’re great for…</p>
+
+
+
+<ul><li>Making abstract ideas concrete</li><li>Conveying concepts without having to build a polished prototype</li><li>Focusing on the user experience rather than the user interface</li><li>Soliciting early feedback from stakeholders and clients</li><li>Encouraging participation, experimentation, and iteration</li><li>Identifying key issues and solving problems proactively</li></ul>
+
+
+
+<p>In practice, wireframes act as blueprints for the later designs, helping teams build consensus about basic user flow, as well as page layout, content and density. And all this happens before teams worry about branding, or about detailed visual design elements like fonts, colors and images.</p>
+
+
+
+<p>Typically, wireframing is just stage one in a three part design process as projects move from low-fidelity (wireframes) to mid-fidelity (mockups), and then finally on to high-fidelity (prototypes).</p>
+
+
+
+<p>If you want to dive deeper into the full design process, check out our article, <a href="https://moqups.com/blog/low-fidelity-vs-high-fidelity-wireframes/">Low Fidelity vs High Fidelity Wireframes: Which should you use?</a></p>
+
+
+
+<h2 class="wp-block-heading" id="wireframe-mockup-prototype">Wireframe vs Mockup vs Prototype</h2>
+
+
+
+<p>These terms are often used interchangeably, but they each reflect three distinct stages within the design process.&nbsp;</p>
+
+
+
+<p>We’ll discuss each of these three stages below but, if you want a more in-depth, point-by point comparison, take a look at our article, <a href="https://moqups.com/blog/wireframe-vs-mockup-vs-prototype/">Wireframe vs Mockup vs Prototype: What’s the difference?</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="771" src="https://moqups.com/blog/wp-content/uploads/2022/10/VS-1-1-1024x771.png" alt="" class="wp-image-3566" srcset="https://moqups.com/blog/wp-content/uploads/2022/10/VS-1-1-1024x771.png 1024w, https://moqups.com/blog/wp-content/uploads/2022/10/VS-1-1-300x226.png 300w, https://moqups.com/blog/wp-content/uploads/2022/10/VS-1-1-768x578.png 768w, https://moqups.com/blog/wp-content/uploads/2022/10/VS-1-1-1536x1156.png 1536w, https://moqups.com/blog/wp-content/uploads/2022/10/VS-1-1-2048x1542.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Think of the design process as an overarching spectrum of refinement and detail – called ‘fidelity.’ At one end are low-fidelity wireframes that represent the bare bones of the product. At the other end of the spectrum are fully fleshed-out, hi-fidelity prototypes that are accurate visual representations of the final product. Somewhere in the middle lies the mid-fi mockup.</p>
+
+
+
+<p>In a typical design workflow, here’s what those three stages look like:</p>
+
+
+
+<h3 class="wp-block-heading">Wireframes</h3>
+
+
+
+<p>UX designers, analysts, and founders work in lo-fi – using grayscale placeholders, simple shapes, and generic ‘lorem ipsum’ text – to communicate initial ideas, clarify concepts, structure pages, define user flows, and get early buy-in. Wireframes focus on functionality and usability rather than aesthetics.</p>
+
+
+
+<h3 class="wp-block-heading">Mockups</h3>
+
+
+
+<p>Draft interface elements – like semi-realistic headers, colors, photos, sketches, and copy – are added to a low-fidelity wireframe in order to create a medium-fidelity mockup. Providing a rough glimpse of what the product will look like, a mockup can help inspire the design team, get everybody on the same page, and secure sign-off from stakeholders.</p>
+
+
+
+<h3 class="wp-block-heading">Prototypes</h3>
+
+
+
+<p>With the addition of high-fidelity elements and interactivity, a wireframe or mockup becomes a prototype. Mimicking both the look and feel of the final product, a prototype typically includes branding, full colors and gradients, pixel-perfect graphics and typography, final copy, and clickable elements. Because prototypes simulate the interactions of a mobile app or website, they’re perfect for testing the user interface and user experience with actual users! Prototypes also represent the last chance to make changes before coding begins.</p>
+
+
+
+<p>Of course, this is just a typical, and highly idealized design process.</p>
+
+
+
+<p>In practice, each project has its own workflow that reflects the budget and timeline, the team and its resources, the nature of the product, and the expectation of the stakeholders.</p>
+
+
+
+<p>For example, some design teams might add interactivity right to the wireframes; some may start with mockups or prototypes and jump over the wireframing stage altogether; and, if a dev team understands the requirements and specification of a project, they may only need wireframes to move forward.</p>
+
+
+
+<p>Nevertheless, teams working in the UX design field tend to love wireframing because it provides such clear benefits for the extended design process.</p>
+
+
+
+<h2 class="wp-block-heading" id="why-use-wireframes">Why should you use wireframes?</h2>
+
+
+
+<p>There are a myriad of benefits to the wireframing process. Here are the most compelling ones:</p>
+
+
+
+<h3 class="wp-block-heading">&nbsp;1. Stronger Collaboration</h3>
+
+
+
+<p>No matter where you are in the development process, wireframes enable effective visual collaboration. For instance, founders can share their vision with potential team members and investors. And established design teams can communicate concepts clearly to their clients, end users, and each other.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading">2. Faster results</h3>
+
+
+
+<p>Inexperienced teams may be tempted to jump over the wireframing stage and start right with high-fidelity designs. After all, it’s counterintuitive to add an extra step when you’re looking for fast results.</p>
+
+
+
+<p>But, with low-fidelity wireframes, teams can focus on functionality and usability first – and ask the right questions at the right time. Early feedback and validation is crucial, because nothing’s worse than presenting a final design to a client, only to realize that there’s been a significant miscommunication.</p>
+
+
+
+<p>The wireframing process lets teams share requirements, fix errors, and get buy-in early in the game. This minimizes needless back and forth, maintains momentum, and helps teams avoid the discouragement of going back to square one to start again.</p>
+
+
+
+<h3 class="wp-block-heading">3. Better product</h3>
+
+
+
+<p>A streamlined design process, and clear communication, inevitably leads to a more competitive and user-friendly product.</p>
+
+
+
+<p>During the exploratory stage of any new product, design teams tend to work on three tracks. The first captures the vision of the new mobile app or website. The second looks at the existing market and competitors. The third engages in user research for early feedback.</p>
+
+
+
+<p>With low-fidelity wireframes, nothing is locked in stone and everything is easy to change. That means that teams can explore widely, experiment freely, and iterate quickly to accommodate new ideas, research and user input. Ultimately, that results in a better user experience and a more effective product.</p>
+
+
+
+<h2 class="wp-block-heading" id="how-to-create-website-wireframe">How do you create a website wireframe?</h2>
+
+
+
+<p>In the past, designers used pen and paper to sketch out their initial ideas. But given the scope and complexity of current user interfaces, most teams prefer to use online wireframing tools like Moqups.</p>
+
+
+
+<p>Because Moqups is browser-based, team members can collaborate on digital wireframes – from anywhere – both async and in real time. And they can brainstorm, whiteboard, diagram and wireframe, all within the same app.</p>
+
+
+
+<figure class="wp-block-video"><video autoplay="" muted="" loop="" playsinline=""><source src="https://landing.moqups.com/blog/wp-content/uploads/2022/10/What-is-a-wireframe-gif-1.mp4" type="video/mp4"></video></figure>
+
+
+
+<p>Moqups lets you drag and drop design elements directly onto the page. And, with thousands of stencils, icons, and reusable components, Moqups makes building a professional wireframe both quick and effortless. To get a sense of what our app can do, check out our short <a href="https://www.youtube.com/watch?v=rDOkWyhXRgs">video tutorial</a>.</p>
+
+
+
+<p>And, if you’re looking to create a solid foundation for your project, or want deeper insights into the UX design process, check out these <a href="https://moqups.com/blog/wireframe-a-website/">10 steps on how to create a website wireframe with Moqups</a>.</p>
+
+
+
+<h2 class="wp-block-heading" id="wireframe-examples">Wireframe examples that you can edit</h2>
+
+
+
+<p>If you are creating any kind of mobile app or website, you don’t have to start from scratch. Using a premade template can kick-start your initiative, save you time, and help you build on established best practices for your basic design.</p>
+
+
+
+<p>Browse our <a href="https://moqups.com/templates/wireframes-mockups/">library</a> of 100+ professionally designed wireframe templates, choose the one that best suits your use case, and start customizing it to fit your needs!</p>
+
+
+
+<p>Here’s a quick preview of our most popular types of wireframes:</p>
+
+
+
+<h3 class="wp-block-heading">1. <a href="https://moqups.com/templates/wireframes-mockups/mobile-app/">Mobile App Wireframe</a></h3>
+
+
+
+<p>If you’re creating a mobile app, this template can be a great bridge between your initial idea and final product. Use the series of mobile screens to design the basic functionality, navigation, and user flow. Then customize them to reflect your brand and prove your concept!</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://moqups.com/templates/wireframes-mockups/mobile-app/"><img loading="lazy" decoding="async" width="1024" height="749" src="https://moqups.com/blog/wp-content/uploads/2022/10/Mobile_App-1024x749.png" alt="" class="wp-image-3547" srcset="https://moqups.com/blog/wp-content/uploads/2022/10/Mobile_App-1024x749.png 1024w, https://moqups.com/blog/wp-content/uploads/2022/10/Mobile_App-300x220.png 300w, https://moqups.com/blog/wp-content/uploads/2022/10/Mobile_App-768x562.png 768w, https://moqups.com/blog/wp-content/uploads/2022/10/Mobile_App-1536x1124.png 1536w, https://moqups.com/blog/wp-content/uploads/2022/10/Mobile_App.png 1798w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<h3 class="wp-block-heading">2. <a href="https://moqups.com/templates/wireframes-mockups/landing-page-wireframe/">Landing Page Wireframe</a></h3>
+
+
+
+<p>An effective landing page can capture organic traffic, improve SEO, build brand awareness, and convert visitors into leads. Our landing page wireframe template can help your design team visualize the most important elements of your layout – and act as a terrific starting point for customization and iteration.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://moqups.com/templates/wireframes-mockups/landing-page-wireframe/"><img loading="lazy" decoding="async" width="1024" height="749" src="https://moqups.com/blog/wp-content/uploads/2022/10/Landing_page-1024x749.png" alt="" class="wp-image-3548" srcset="https://moqups.com/blog/wp-content/uploads/2022/10/Landing_page-1024x749.png 1024w, https://moqups.com/blog/wp-content/uploads/2022/10/Landing_page-300x220.png 300w, https://moqups.com/blog/wp-content/uploads/2022/10/Landing_page-768x562.png 768w, https://moqups.com/blog/wp-content/uploads/2022/10/Landing_page-1536x1124.png 1536w, https://moqups.com/blog/wp-content/uploads/2022/10/Landing_page.png 1798w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<h3 class="wp-block-heading">3. <a href="https://moqups.com/templates/wireframes-mockups/ecommerce-wireframe/">E-commerce Website Wireframe</a></h3>
+
+
+
+<p>This e-commerce website wireframe bundles together the most important web-pages for an online store: Home, Shop, Product, Cart, Shipping, and Payment. Use this template to build the basic blueprint and user experience for your online store.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://moqups.com/templates/wireframes-mockups/ecommerce-wireframe/"><img loading="lazy" decoding="async" width="1024" height="749" src="https://moqups.com/blog/wp-content/uploads/2022/10/E-commerce-1024x749.png" alt="" class="wp-image-3549" srcset="https://moqups.com/blog/wp-content/uploads/2022/10/E-commerce-1024x749.png 1024w, https://moqups.com/blog/wp-content/uploads/2022/10/E-commerce-300x220.png 300w, https://moqups.com/blog/wp-content/uploads/2022/10/E-commerce-768x562.png 768w, https://moqups.com/blog/wp-content/uploads/2022/10/E-commerce-1536x1124.png 1536w, https://moqups.com/blog/wp-content/uploads/2022/10/E-commerce.png 1798w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<h3 class="wp-block-heading">4. <a href="https://moqups.com/templates/wireframes-mockups/admin-dashboard-wireframe/">Admin Dashboard Wireframe</a></h3>
+
+
+
+<p>Want your team to make informed decisions and take meaningful action? With a Business Intelligence dashboard, they can visualize analytics, track trends, and display key performance indicators. Our dashboard wireframe bundle includes page layouts for Sales, Views, Visitors, User Details, and more.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://moqups.com/templates/wireframes-mockups/admin-dashboard-wireframe/"><img loading="lazy" decoding="async" width="1024" height="729" src="https://moqups.com/blog/wp-content/uploads/2022/10/Dashboard-1024x729.png" alt="" class="wp-image-3550" srcset="https://moqups.com/blog/wp-content/uploads/2022/10/Dashboard-1024x729.png 1024w, https://moqups.com/blog/wp-content/uploads/2022/10/Dashboard-300x214.png 300w, https://moqups.com/blog/wp-content/uploads/2022/10/Dashboard-768x547.png 768w, https://moqups.com/blog/wp-content/uploads/2022/10/Dashboard-1536x1093.png 1536w, https://moqups.com/blog/wp-content/uploads/2022/10/Dashboard.png 1798w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<h2 class="wp-block-heading" id="conclusion">Conclusion</h2>
+
+
+
+<p>If you’re thinking about integrating wireframes into your own design process, here’s a quick recap of their benefits:</p>
+
+
+
+<ul><li>You can quickly visualize and communicate the initial concepts</li><li>They’re great for exploring a range of design options&nbsp;</li><li>Every member of the team can contribute new ideas</li><li>Stakeholders are likely to give more honest feedback before designs are finalized</li><li>In low-fidelity, the iterative process is quick and painless&nbsp;&nbsp;</li><li>They help get early buy-in and sign-off from clients and end users</li></ul>
+
+
+
+<p>If you’re ready to start creating wireframes – either from scratch or from a template – just click the button below to get started with our free wireframing tool. No credit card is required!</p>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button aligncenter"><a class="wp-block-button__link wp-element-button" href="https://moqups.com/">Create wireframe for free</a></div>
+</div>
+<p>The post <a href="https://moqups.com/blog/what-is-a-wireframe/">What is a wireframe?</a> appeared first on <a href="https://moqups.com/blog">The Moqups Blog | Mockup, Wireframe &amp; UI Prototyping News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to wireframe a website.</title>
+		<link>https://moqups.com/blog/wireframe-a-website/</link>
+		
+		<dc:creator><![CDATA[Moqups Team]]></dc:creator>
+		<pubDate>Thu, 21 Jul 2022 10:36:55 +0000</pubDate>
+				<category><![CDATA[Education]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[UX Design]]></category>
+		<category><![CDATA[Wireframing]]></category>
+		<guid isPermaLink="false">https://moqups.com/blog/?p=3376</guid>
+
+					<description><![CDATA[<p>Whether you’re new to UX design or need a quick refresher, our complete guide to wireframing will bring you up to speed!</p>
+<p>The post <a href="https://moqups.com/blog/wireframe-a-website/">How to wireframe a website.</a> appeared first on <a href="https://moqups.com/blog">The Moqups Blog | Mockup, Wireframe &amp; UI Prototyping News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Maybe you’re thinking about a career in UX design. Maybe you&#8217;ve just started your first project. Or, you may already be an experienced professional who just wants to up their game and streamline their design process.</p>
+
+
+
+<p>Either way, this quick primer is designed to demystify website wireframing, answer key questions, and show you how to best integrate wireframes within your development process.</p>
+
+
+
+<p>Here’s what we’ll cover:</p>
+
+
+
+<ul><li><a href="#what-is-website-wireframe">What is a website wireframe</a></li><li><a href="#wireframe-mockup-prototype">Wireframes vs mockups vs prototypes</a></li><li><a href="#lofi-hifi">When to go low-fi or hi-fi</a></li><li><a href="#wireframe-benefits">Benefits of wireframing</a></li><li><a href="#when-to-wireframe">When to wireframe</a></li><li><a href="#guide">A step-by-step guide</a></li><li><a href="#templates-and-examples">Wireframe templates and examples</a></li><li><a href="#why-moqups">Why choose Moqups</a></li></ul>
+
+
+
+<h2 class="wp-block-heading" id="what-is-website-wireframe"><strong>What is a website wireframe?</strong></h2>
+
+
+
+<p>In website design, the term ‘wireframe’ refers to a rough sketch of a webpage, often done early on in the design process. Wireframes can be drawn with pen and paper, but are more commonly created online, with software like our own.</p>
+
+
+
+<p>The point of a wireframe is to establish the basic layout of your web pages using simple shapes, placeholders and generic ‘lorem ipsum’ text. Wireframes are normally done in grayscale and deliberately exclude specific design details – like the colors, fonts, photos, illustrations or logos – that will ultimately be part of your branding.</p>
+
+
+
+<p>The reason for this rough, first-draft approach is to give the UX design team a chance to consider basic questions of layout, functionality, and navigation before worrying about detailed visual design elements.</p>
+
+
+
+<p>Stripping a design down to its most basic building blocks is a pragmatic approach that puts the focus on user experience – before making final decisions about design aesthetics.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="746" src="https://moqups.com/blog/wp-content/uploads/2022/07/wireframe-website-2-1024x746.jpg" alt="" class="wp-image-3377" srcset="https://moqups.com/blog/wp-content/uploads/2022/07/wireframe-website-2-1024x746.jpg 1024w, https://moqups.com/blog/wp-content/uploads/2022/07/wireframe-website-2-300x219.jpg 300w, https://moqups.com/blog/wp-content/uploads/2022/07/wireframe-website-2-768x560.jpg 768w, https://moqups.com/blog/wp-content/uploads/2022/07/wireframe-website-2.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>A wireframe is like the blueprint for a website</em></figcaption></figure>
+
+
+
+<p>Wireframes are analogous to the blueprints used in early stages of housing design. Before entering into discussions of brick texture, paint color, lighting fixtures, or floor coverings, an architect works with homeowners to decide on much more basic questions.</p>
+
+
+
+<p>How many bedrooms will the family need, and on how many floors? Should the bathrooms be ensuite or commonly accessible? Will the kitchen be open to the living space or separated?</p>
+
+
+
+<p>Most importantly, how will the family flow through their future home? And what amenities should be near-at-hand to help make their experience of the house both easier and more intuitive.</p>
+
+
+
+<p>Architects use initial floor plans – and then more sophisticated blueprints – to capture these requirements. They establish these basic rules before ever engaging the builders and designers who will, ultimately, bring this home to life.</p>
+
+
+
+<p>Web design works in a similar way. Early in the process, UX designers work with clients, stakeholders, and end users in order to answer the most basic questions about the intent of the website – and the purpose of individual pages within it.</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-3 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link wp-element-button" href="https://moqups.com/" target="_blank" rel="noreferrer noopener">Learn more about Moqups</a></div>
+</div>
+
+
+
+<p>Inevitably, this process involves lots of experimentation and iteration. So, during this experimental period, it’s counter-productive to invest in pixel-perfect designs.</p>
+
+
+
+<p>It’s a waste of both time and money to invest in a polished user interface since it’s likely to change, in substantial ways, especially in response to ongoing feedback. After all, the team will want to consider all voices, seek input from colleagues and stakeholders, and make ongoing changes as they move towards consensus.</p>
+
+
+
+<p>In these early stages, it’s more effective to work with the skeletal framework of the website in order to avoid the sunk-cost fallacy of committing too heavily to a polished design that’s only destined to change.</p>
+
+
+
+<p>So much of this early design work involves back and forth communication of ideas, specifications, annotations and requirements. Wireframes help teams collaborate in the simplest, clearest and most cost effective fashion.</p>
+
+
+
+<h2 class="wp-block-heading" id="wireframe-mockup-prototype"><strong>Wireframes vs Mockups vs Prototypes</strong></h2>
+
+
+
+<p>As our previous article <a href="https://moqups.com/blog/wireframe-vs-mockup-vs-prototype/" target="_blank" rel="noreferrer noopener">Wireframe vs Mockup vs Prototype</a> explains, these terms represent distinct stages in the design of websites and mobile apps.</p>
+
+
+
+<p>Think of a spectrum of both fidelity (the degree of detail in the design) and interactivity (the degree to which a viewer can interact with the design).</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="746" src="https://moqups.com/blog/wp-content/uploads/2022/07/website-wireframe-1-1024x746.png" alt="" class="wp-image-3380" srcset="https://moqups.com/blog/wp-content/uploads/2022/07/website-wireframe-1-1024x746.png 1024w, https://moqups.com/blog/wp-content/uploads/2022/07/website-wireframe-1-300x219.png 300w, https://moqups.com/blog/wp-content/uploads/2022/07/website-wireframe-1-768x560.png 768w, https://moqups.com/blog/wp-content/uploads/2022/07/website-wireframe-1.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>Low, medium and high-fidelity wireframes</em></figcaption></figure>
+
+
+
+<p>At one end is the <strong>wireframe</strong>. In its purest form, it is low-fidelity, rendered in monochrome, and uses generic placeholders to represent the eventual design elements, images and text. It’s normally static, meaning UI elements like buttons, links, and dropdowns are not clickable.</p>
+
+
+
+<p>At the other end is the<strong> prototype</strong>. It’s so high-fidelity that it’s nearly indistinguishable from the final product. It’s branded with logos, colors, images and copy. And it is almost fully interactive – enough that a user can realistically click through the UI in order to test the eventual product it mimics.</p>
+
+
+
+<p>Somewhere in between these two poles lies the <strong>mockup</strong>. Mockups are higher on both the fidelity and interactivity scale than wireframes, but lower than full prototypes. As such, they may include working versions of the content and copy, and a few hi-fi elements. And, although they may incorporate some basic page interactions, most of the UI remains unclickable.</p>
+
+
+
+<p>Website and mobile app design typically moves from wireframes to mockups to prototypes. However, experienced UX and UI design teams choose whatever level of fidelity can best help them reach consensus, get sign-off from their stakeholders, and communicate requirements to the development team in the clearest and most cost-effective way possible.</p>
+
+
+
+<h2 class="wp-block-heading" id="lofi-hifi"><strong>Low fidelity vs high fidelity? Which to choose?</strong></h2>
+
+
+
+<p>If you want to explore the issue in full depth, check out our dedicated article, <a href="https://moqups.com/blog/low-fidelity-vs-high-fidelity-wireframes/">Low Fidelity vs High Fidelity Wireframes: Which should you use?</a> In the meantime, here’s a summary and some key observations from that post:</p>
+
+
+
+<h3 class="wp-block-heading">Low-fidelity wireframe</h3>
+
+
+
+<p>The purpose of a lo-fi wireframe is to keep the focus on function rather than aesthetics. That way, you can work out the basic flow and functionality of your site – before costly content is commissioned.</p>
+
+
+
+<p>Since basic wireframes are quick to build, your team can experiment freely, respond to feedback, and get early buy-in from stakeholders. But because they’re not as inspiring as hi-fi prototypes, they aren’t well suited for final investor pitches.</p>
+
+
+
+<h3 class="wp-block-heading">High-fidelity wireframe</h3>
+
+
+
+<p>A high-fi wireframe can mimic the exact look and feel of an app or website before it’s actually developed. That makes it easy to deliver precise requirements to your dev team. And, by adding interactions, you can create a thrilling, clickable prototype for pitches and user testing.</p>
+
+
+
+<p>But, because this degree of fidelity requires polished content, it demands much more time and effort – and needs a longer timeline. Additionally, a perfectly polished product can sometimes discourage substantial feedback from stakeholders.</p>
+
+
+
+<h2 class="wp-block-heading" id="wireframe-benefits"><strong>What are the benefits of wireframing a website… and why is it so important?</strong></h2>
+
+
+
+<p>Wireframing is truly a win-win-win proposition: Clients get better websites, users get better experiences, and agencies save money. Here are just a few of the reasons why:</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Wireframes streamline the design process for teams:</strong></h3>
+
+
+
+<ul><li>With wireframes, you can establish the basic flow, functionality, navigation and density of your website before investing time and money in hi-fi graphics and copy.</li><li>Working in lo-fi encourages open-minded experimentation because every member of a cross-functional team can get involved.</li><li>Wireframing also provides a great mechanism for vetting ideas and getting buy-in early in the design process.</li><li>Lo-fi drafts lets you iterate painlessly in response to feedback, without the costly redesign of polished assets, or time consuming changes to code.</li><li>Eliminating needless back and forth helps maintain momentum, reduce frustration, and improve team morale.</li></ul>
+
+
+
+<h3 class="wp-block-heading"><strong>Wireframing produces better websites for clients and customers:</strong></h3>
+
+
+
+<ul><li>A better design process results in a better product because it allows for rapid, clear and cost-effective communication.</li><li>In the early stages of website design, wireframing helps all the stakeholders show and tell, giving concrete shape and form to abstract ideas.</li><li>Wireframes help analysts ensure that essential business requirements are reflected in the fundamentals of the design.</li><li>Clients often have unrealistic expectations about how much content can be included on each page of a website, so working with rough drafts of the layout can help answer basic questions about density and intent.</li><li>By experimenting with different design options, UX designers can reduce friction, boost retention and conversion, and improve customer experience.</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="746" src="https://moqups.com/blog/wp-content/uploads/2022/07/template-1024x746.png" alt="" class="wp-image-3381" srcset="https://moqups.com/blog/wp-content/uploads/2022/07/template-1024x746.png 1024w, https://moqups.com/blog/wp-content/uploads/2022/07/template-300x219.png 300w, https://moqups.com/blog/wp-content/uploads/2022/07/template-768x560.png 768w, https://moqups.com/blog/wp-content/uploads/2022/07/template.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>Low-fidelity wireframe with generic placeholders</em></figcaption></figure>
+
+
+
+<h2 class="wp-block-heading" id="when-to-wireframe"><strong>When to use a website wireframe?</strong></h2>
+
+
+
+<p>The basic principle of wireframing – to keep things fast and simple – is applicable anywhere along the design and development process. Here are some key use cases:</p>
+
+
+
+<h4 class="wp-block-heading">1. <strong>At the eureka moment</strong></h4>
+
+
+
+<p>Wireframing is a great way for creators and founders to get fresh concepts out of their head – and onto the page – before they slip away. Wireframes give shape to scattered ideas, so you can present them in an organized fashion.</p>
+
+
+
+<h4 class="wp-block-heading">2. <strong>For early validation</strong></h4>
+
+
+
+<p>There’s nothing more frustrating than having a great idea, but communicating it badly. Even the most basic wireframe can be transformative for initial pitches to friends, family, and early investors. During this fragile, exploratory stage, wireframes can help you connect with your first audiences by making your abstract concepts tangible.</p>
+
+
+
+<h4 class="wp-block-heading">3. <strong>Before you build a team</strong></h4>
+
+
+
+<p>As you move from ideation to realization, you’ll want to assemble your team. To attract the right people, you’ll need to convince them that your concept is viable, clear, and credible. An effective wireframe can help communicate that vision and inspire enthusiasm.</p>
+
+
+
+<h4 class="wp-block-heading">4. <strong>At the beginning of the design process</strong></h4>
+
+
+
+<p>Going lo-fi is great in the early stages of design. Because wireframes are quick and easy to build, your team can experiment freely. No one will feel like they are ‘breaking’ anything when they try out new ideas, or fool around with the layout. And, because time has yet to be invested in making things pixel-perfect, changes are relatively painless at this point.</p>
+
+
+
+<h4 class="wp-block-heading">5. <strong>To establish consensus with clients</strong></h4>
+
+
+
+<p>Rough drafts are great for working out ideas, exploring competing layouts, and thinking through the implications of these options. Until you’ve got buy-in on basic page structure, there’s no point in preparing graphics or polishing text – only to discover it won’t fit into the final design. Putting the cart before the horse can result in premature work that’s only destined to be tossed away. Needless effort is a recipe for high costs, low morale, and dissatisfied clients.</p>
+
+
+
+<h4 class="wp-block-heading">6. <strong>Working on new content</strong></h4>
+
+
+
+<p>When you add new features or functionality to your site, many of the branding and design decisions may already have been made. But there will still be a whole raft of competing choices yet to be resolved: dropdowns vs lists, radio buttons vs checkmarks, balance of graphics vs copy, table vs chart, headline options, etc. All of those can be best understood – and decided upon – from mockup or wireframe.</p>
+
+
+
+<h4 class="wp-block-heading">7. <strong>Updating the site and maintenance</strong></h4>
+
+
+
+<p>Especially in an agile world, websites are being constantly refreshed to reflect new products, personnel, policies, trends, and user needs. Every change needs approval before being shipped. Taking a quick screenshot of a current page, and mocking it up to reflect updated content is the quickest way to get approval – and speed rollout.</p>
+
+
+
+<p></p>
+
+
+
+<p>Basically, there’s no wrong time to use a wireframe. Any time you make a fundamental decision that might be difficult – or expensive – to reverse, it makes sense to get stakeholders on the same page with the wireframing process.</p>
+
+
+
+<h2 class="wp-block-heading" id="guide"><strong>How to create your first wireframe with Moqups in 10 steps</strong></h2>
+
+
+
+<p>If you’re new to our app, check out our short <a href="https://www.youtube.com/watch?v=rDOkWyhXRgs">tutorial video</a> for a fast tour of our app.&nbsp;</p>
+
+
+
+<p>With Moqups you can quickly build a wireframe for all kinds of websites and landing pages: e-commerce, blogs, courses and webinars, partnerships, affiliate marketing, careers, contests, educational sites, mobile apps, and more. Just go to <a href="https://app.moqups.com/sign-up">moqups.com</a> and create your free account. No credit card is required. Then, use the following step-by-step guide to help you create your first wireframe!</p>
+
+
+
+<h3 class="wp-block-heading">1. Determine the goal of your website</h3>
+
+
+
+<p>Brainstorm to determine your website’s overall goal, and the purpose of each individual page. Is it to sell, inform, generate leads, get visitors to sign up, or request a demo? It’s important to align your team around your own business requirements before you get started. But it’s equally important to understand your visitors’ goals. Building user personas and an empathy map can help your team imagine what visitors will want from your site, and how they’ll interact with it.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="746" src="https://moqups.com/blog/wp-content/uploads/2022/07/persona-1024x746.png" alt="" class="wp-image-3408" srcset="https://moqups.com/blog/wp-content/uploads/2022/07/persona-1024x746.png 1024w, https://moqups.com/blog/wp-content/uploads/2022/07/persona-300x219.png 300w, https://moqups.com/blog/wp-content/uploads/2022/07/persona-768x560.png 768w, https://moqups.com/blog/wp-content/uploads/2022/07/persona.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>A persona is a semi-fictional example of your ideal user</em></figcaption></figure>
+
+
+
+<h3 class="wp-block-heading">2. Map out the scope of your website</h3>
+
+
+
+<p>Create a sitemap diagram to establish the information architecture and taxonomy of your site. At this point, you can begin to discuss what information needs to be both communicated and collected. And think about what your ideal page density might look like. Those decisions will help determine the scope of the site, how many pages you’ll need, and in what configuration.</p>
+
+
+
+<h3 class="wp-block-heading">3. Think about the optimal user flow</h3>
+
+
+
+<p>Build user-flow diagrams to map out the optimal visitor journey through your page hierarchy. This will keep the focus where you want it – on user interactions with your screens. Keep your personas in mind as you work to reduce friction, and make the user experience as effortless as possible.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://moqups.com/blog/wp-content/uploads/2022/07/sitemap-1024x683.png" alt="" class="wp-image-3409" srcset="https://moqups.com/blog/wp-content/uploads/2022/07/sitemap-1024x683.png 1024w, https://moqups.com/blog/wp-content/uploads/2022/07/sitemap-300x200.png 300w, https://moqups.com/blog/wp-content/uploads/2022/07/sitemap-768x512.png 768w, https://moqups.com/blog/wp-content/uploads/2022/07/sitemap.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>Sitemaps help establish the scope and information hierarchy of a website</em></figcaption></figure>
+
+
+
+<h3 class="wp-block-heading">4. Do some competitor research</h3>
+
+
+
+<p>There’s no point in trying to reinvent the wheel. Before you start working on your page layout, take a look at both templates and competitor sites. Look at both near and far competitors – as well as other websites whose design and UX you might admire. This will give you a pretty good sense of best practices in your domain. You can even try reverse engineering their strategies to help you decide on your own.</p>
+
+
+
+<h3 class="wp-block-heading">5. Create your first draft</h3>
+
+
+
+<p>Using our drag and drop page elements, start designing your pages. Depending on your workflow, you can sketch out a rough wireframe first, or begin with a more precise idea of where each design element will go. Build up your website wireframe design with placeholders for logos, headers, navigation and breadcrumb systems, sidebars, headings and subheads (H1, H2, H3), body content, pics, illustrations, video, buttons, icons, avatars, footers, contact info – and the all important CTAs!</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://moqups.com/blog/wp-content/uploads/2022/07/step1-1024x683.png" alt="" class="wp-image-3410" srcset="https://moqups.com/blog/wp-content/uploads/2022/07/step1-1024x683.png 1024w, https://moqups.com/blog/wp-content/uploads/2022/07/step1-300x200.png 300w, https://moqups.com/blog/wp-content/uploads/2022/07/step1-768x512.png 768w, https://moqups.com/blog/wp-content/uploads/2022/07/step1.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>First draft wireframe with body content added</em></figcaption></figure>
+
+
+
+<h3 class="wp-block-heading">6. Get content creators involved</h3>
+
+
+
+<p>A benefit of wireframing is that you can work out a design before commissioning expensive content. But it’s also helpful to get copywriters and illustrators involved as soon as you can. Going beyond ‘lorem ipsum’ – even if it’s just a placeholder like “Punchy Four Word Title!” – can help determine your title hierarchy and prevent text overflow. And dropping rough sketches onto the page can help copywriters match text to artwork. There’s a symbiotic relationship between content and design, so having writers and artists involved in wireframing saves back-and-forth later in the process.</p>
+
+
+
+<h3 class="wp-block-heading">7. Solicit feedback and annotate</h3>
+
+
+
+<p>When to ask for feedback will depend on your own design team workflow. But, as a general rule, it’s good to get comments on your wireframes as soon as you can. That’s when it’s easiest to accommodate new ideas – or even change direction. Team members can provide advice, but it’s also worth checking with end users to make sure you haven’t overlooked any functionality or usability issues. And, it’s good practice to document business and technical requirements by leaving notes and annotations right on the page. This helps eliminate ambiguity as your design takes its final shape.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://moqups.com/blog/wp-content/uploads/2022/07/step2-1024x683.png" alt="" class="wp-image-3411" srcset="https://moqups.com/blog/wp-content/uploads/2022/07/step2-1024x683.png 1024w, https://moqups.com/blog/wp-content/uploads/2022/07/step2-300x200.png 300w, https://moqups.com/blog/wp-content/uploads/2022/07/step2-768x512.png 768w, https://moqups.com/blog/wp-content/uploads/2022/07/step2.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>In-place comments and annotations provide requirements and feedback</em></figcaption></figure>
+
+
+
+<h3 class="wp-block-heading">8. Iterate freely and frequently</h3>
+
+
+
+<p>You can create multiple versions of your layout in order to experiment with alternative approaches, flows, and options. But you may also need to create multiple iterations to reflect different screen sizes and responsive layouts. In both cases, take advantage of the wireframing stage to explore new ideas and cover all bases. Keep iterating until you find consensus – and until both your team members and stakeholders are satisfied.</p>
+
+
+
+<h3 class="wp-block-heading">9. Add branding and hi-fi elements</h3>
+
+
+
+<p>Once you have the foundational elements in place, you can start bringing your design to life by adding logos, color scheme, fonts, typography, icons, pictures, illustrations, and graphics. With the addition of these elements, your wireframe becomes more of a mockup and, eventually, a prototype. Since this stage is the last, best opportunity for last-minute tweaks, live collaboration can help your team iron out the final details.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://moqups.com/blog/wp-content/uploads/2022/07/step3-1024x683.png" alt="" class="wp-image-3412" srcset="https://moqups.com/blog/wp-content/uploads/2022/07/step3-1024x683.png 1024w, https://moqups.com/blog/wp-content/uploads/2022/07/step3-300x200.png 300w, https://moqups.com/blog/wp-content/uploads/2022/07/step3-768x512.png 768w, https://moqups.com/blog/wp-content/uploads/2022/07/step3.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>High-fidelity wireframe</em></figcaption></figure>
+
+
+
+<h3 class="wp-block-heading">10. Add interactions, present and test</h3>
+
+
+
+<p>At this point, your design should be almost pixel perfect. Now you’re ready to test with users, present to investors, and hand off to developers. The last step is to add basic interactions and make your design clickable. The more your prototype mimics your eventual product, the more effective your user feedback and testing will be.</p>
+
+
+
+<h2 class="wp-block-heading" id="templates-and-examples"><strong>Wireframe Templates and Examples</strong></h2>
+
+
+
+<p>There’s no need to start from scratch. You can kickstart your project – and take advantage of current best practices – with one of our professionally designed templates. Choose from desktop or mobile wireframes, and from 100+ diagrams, charts, graphs, user experience flows and business frameworks. </p>
+
+
+
+<p>Here are a few wireframe examples that might help get you going. Click on any of these thumbnails to start:</p>
+
+
+
+<p></p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-large"><a href="https://moqups.com/templates/wireframes-mockups/business-landing-page/" target="_blank" rel="noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="579" src="https://moqups.com/blog/wp-content/uploads/2022/07/Quadrant_purple-1-1024x579.png" alt="Business Landing Page Wireframe Template" class="wp-image-3442" srcset="https://moqups.com/blog/wp-content/uploads/2022/07/Quadrant_purple-1-1024x579.png 1024w, https://moqups.com/blog/wp-content/uploads/2022/07/Quadrant_purple-1-300x170.png 300w, https://moqups.com/blog/wp-content/uploads/2022/07/Quadrant_purple-1-768x434.png 768w, https://moqups.com/blog/wp-content/uploads/2022/07/Quadrant_purple-1-1536x868.png 1536w, https://moqups.com/blog/wp-content/uploads/2022/07/Quadrant_purple-1.png 1992w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><a href="https://moqups.com/templates/wireframes-mockups/business-landing-page/">Business Landing Page Template</a></figcaption></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-large"><a href="https://moqups.com/templates/wireframes-mockups/blog-page/" target="_blank" rel="noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="579" src="https://moqups.com/blog/wp-content/uploads/2022/07/Quadrant_orange-1024x579.png" alt="Blog Page Wireframe Template" class="wp-image-3437" srcset="https://moqups.com/blog/wp-content/uploads/2022/07/Quadrant_orange-1024x579.png 1024w, https://moqups.com/blog/wp-content/uploads/2022/07/Quadrant_orange-300x170.png 300w, https://moqups.com/blog/wp-content/uploads/2022/07/Quadrant_orange-768x434.png 768w, https://moqups.com/blog/wp-content/uploads/2022/07/Quadrant_orange-1536x868.png 1536w, https://moqups.com/blog/wp-content/uploads/2022/07/Quadrant_orange.png 1992w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><a href="https://moqups.com/templates/wireframes-mockups/business-landing-page/" target="_blank" rel="noreferrer noopener">Blog Page Template</a></figcaption></figure>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-2 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-large"><a href="https://moqups.com/templates/wireframes-mockups/high-fidelity-wireframe/" target="_blank" rel="noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="580" src="https://moqups.com/blog/wp-content/uploads/2022/07/Quadrant_yellow-1024x580.png" alt="High Fidelity Wireframe Template" class="wp-image-3438" srcset="https://moqups.com/blog/wp-content/uploads/2022/07/Quadrant_yellow-1024x580.png 1024w, https://moqups.com/blog/wp-content/uploads/2022/07/Quadrant_yellow-300x170.png 300w, https://moqups.com/blog/wp-content/uploads/2022/07/Quadrant_yellow-768x435.png 768w, https://moqups.com/blog/wp-content/uploads/2022/07/Quadrant_yellow-1536x870.png 1536w, https://moqups.com/blog/wp-content/uploads/2022/07/Quadrant_yellow.png 1992w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><a href="https://moqups.com/templates/wireframes-mockups/high-fidelity-wireframe/">High Fidelity Template</a></figcaption></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-large"><a href="https://moqups.com/templates/wireframes-mockups/ecommerce-wireframe/" target="_blank" rel="noreferrer noopener"><img loading="lazy" decoding="async" width="1024" height="571" src="https://moqups.com/blog/wp-content/uploads/2022/07/Quadrant_dark_purple-1024x571.png" alt="E-Commerce Shop Wireframe Template" class="wp-image-3444" srcset="https://moqups.com/blog/wp-content/uploads/2022/07/Quadrant_dark_purple-1024x571.png 1024w, https://moqups.com/blog/wp-content/uploads/2022/07/Quadrant_dark_purple-300x167.png 300w, https://moqups.com/blog/wp-content/uploads/2022/07/Quadrant_dark_purple-768x428.png 768w, https://moqups.com/blog/wp-content/uploads/2022/07/Quadrant_dark_purple-1536x856.png 1536w, https://moqups.com/blog/wp-content/uploads/2022/07/Quadrant_dark_purple.png 1992w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption"><a href="https://moqups.com/templates/wireframes-mockups/ecommerce-wireframe/" target="_blank" rel="noreferrer noopener">E-Commerce Shop Template</a></figcaption></figure>
+</div>
+</div>
+
+
+
+<h2 class="wp-block-heading" id="why-moqups"><strong>Why Moqups is Great for Making Wireframes</strong></h2>
+
+
+
+<p>Moqups is simple to use and easy to learn – but it’s also much more than just a wireframing tool.&nbsp;</p>
+
+
+
+<p>Brainstorm with whiteboards, get inspired with moodboards, plan with strategic frameworks, create sitemaps and flow diagrams, build up user personas, and take your design all the way from concept to creation. Moqups is perfect for every step in the wireframing process.&nbsp;</p>
+
+
+
+<p>And, since Moqups is designed with real-time collaboration in mind, every member of your team can get involved. Our app is cloud-based, so it’s perfect for remote or distributed teams working sync or async. Team members can contribute from anywhere – right in their browser – to edit together live, annotate, and leave comments right on the page.</p>
+
+
+
+<p>Why not try it out for yourself?&nbsp;</p>
+
+
+
+<p>It’s free to get started with no credit card required.</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-4 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://moqups.com/">Create wireframe for free</a></div>
+</div>
+<p>The post <a href="https://moqups.com/blog/wireframe-a-website/">How to wireframe a website.</a> appeared first on <a href="https://moqups.com/blog">The Moqups Blog | Mockup, Wireframe &amp; UI Prototyping News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Wireframe vs Mockup vs Prototype: What&#8217;s the difference?</title>
+		<link>https://moqups.com/blog/wireframe-vs-mockup-vs-prototype/</link>
+		
+		<dc:creator><![CDATA[Moqups Team]]></dc:creator>
+		<pubDate>Wed, 06 Jul 2022 12:20:40 +0000</pubDate>
+				<category><![CDATA[Education]]></category>
+		<category><![CDATA[mockups]]></category>
+		<category><![CDATA[prototypes]]></category>
+		<category><![CDATA[wireframes]]></category>
+		<guid isPermaLink="false">https://moqups.com/blog/?p=3306</guid>
+
+					<description><![CDATA[<p>This quick guide will help you understand wireframes, mockups, and prototypes – and demonstrate how to use each effectively.</p>
+<p>The post <a href="https://moqups.com/blog/wireframe-vs-mockup-vs-prototype/">Wireframe vs Mockup vs Prototype: What&#8217;s the difference?</a> appeared first on <a href="https://moqups.com/blog">The Moqups Blog | Mockup, Wireframe &amp; UI Prototyping News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The terms wireframe, mockup, and prototype are often used interchangeably, especially by those unfamiliar with UI/UX design. This confusion stems from the fact that they represent subsequent stages in the design process, and therefore share a lot of overlap.</p>
+
+
+
+<p>So let’s clear things up and explain what distinguishes them, and how you can integrate each into your workflow.</p>
+
+
+
+<h2 class="wp-block-heading">What&#8217;s the difference between wireframes vs mockups vs prototypes?</h2>
+
+
+
+<p>Think of wireframes, mockups, and prototypes as three stages of the UI design process: the sketching-out, polishing, and testing of a website or app.</p>
+
+
+
+<p>Each of these stages lie along a spectrum of fidelity and interactivity that begins with basic, low fidelity wireframes and culminates in interactive, high fidelity prototypes that mimic the final product. But these steps aren’t set in stone, so feel free to adapt the process to suit the needs of your team and your project.&nbsp;&nbsp;</p>
+
+
+
+<p>If you aren’t familiar with the terms low and high fidelity, then check out our article <a href="https://moqups.com/blog/low-fidelity-vs-high-fidelity-wireframes/">Low Fidelity vs High Fidelity Wireframes: Which should you use?</a> for a quick primer.</p>
+
+
+
+<p>Now, let’s dive into the difference between wireframes, mockups, and prototypes.</p>
+
+
+
+<p><strong>Wireframes</strong> are generally used in the early stages of a project, when the design team is working on their first drafts – figuring out the basic information architecture, layout and user flow. These low-fidelity designs are generally rendered in grayscale, and characterized by simple shapes, image placeholders, and generic, “lorem ipsum” text.</p>
+
+
+
+<p>By using such basic visual design elements, wireframes put the focus on functionality rather than aesthetics. This puts the user experience (UX) front and center. And, at this stage, changes can be made effortlessly – before a lot of time and money has been invested in high-fidelity design elements. This means that every member of a cross-functional team can pitch in and suggest new approaches – without worrying about breaking an already polished design!</p>
+
+
+
+<p>By combining suggestions from all team members – and constantly working on improving and refining the design – a wireframe can quickly advance from low fidelity to medium fidelity. This seamless transition leads to the next stage in the design process: the mockup.</p>
+
+
+
+<p>Whereas wireframes focus on functionality, <strong>mockups</strong> put the emphasis on a more realistic design. Having established a base layout and structure with the wireframe, your team can now begin adding detailed visual elements like colors, images, fonts, and typography. Wireframes are useful for early stakeholder approval, but mockups have a higher visual impact, and can be more inspiring.</p>
+
+
+
+<p>Adding high fidelity elements also means putting in more time and effort. This is the stage where UI designers and copywriting professionals typically begin to contribute. With the transition from mid-fidelity to high fidelity, a mockup will start looking more and more like a polished prototype. However, to fully mimic the eventual product, you’ll want to add interactivity and animations and create a clickable prototype.</p>
+
+
+
+<p>High-fidelity<strong> prototypes</strong> are the final stage of the design process. These functional, pixel-perfect simulations of a finished product are great for validation, user testing, investor pitches, and hand-off to the development team.</p>
+
+
+
+<p>In the real world, design teams can start anywhere, and move fluidly between low and high fidelity, depending on the nature of the project, and the team’s familiarity with the product.</p>
+
+
+
+<p>For more insight into the wireframing process, check out our article, <a href="https://moqups.com/blog/wireframe-a-website/">How to Wireframe a Website: A complete guide.</a></p>
+
+
+
+<p>To find the workflow that’s best for you and your team, you can collaborate in real-time with an <a href="https://moqups.com/">online design tool</a> like Moqups. Our app lets you take your idea from concept to creation with wireframes, mockups, and prototypes, all in the same project!</p>
+
+
+
+<figure class="wp-block-table"><table><thead><tr><th></th><th>Wireframe</th><th>Mockup</th><th>Prototype</th></tr></thead><tbody><tr><td>Fidelity</td><td>Low</td><td>Medium</td><td>High</td></tr><tr><td>Interactivity</td><td>None</td><td>Limited</td><td>Full</td></tr><tr><td>Style</td><td>Grayscale with generic shapes, placeholders and text boxes, gray lines</td><td>Colors, logos, text anywhere from draft to final quality</td><td>Pixel perfect, brand-accurate details</td></tr><tr><td>Best for</td><td>Hashing out concepts<br>defining requirements and establishing consensus</td><td>Getting buy in from stakeholder before the design is finalized</td><td>Realistic user testing, pitches and final presentations</td></tr></tbody></table></figure>
+
+
+
+<div style="height:27px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>But the basic principle remains that low fidelity wireframes are most useful for working out ideas with your team members and getting early buy-in from stakeholders. Building high fidelity mockups and prototypes makes more sense once basic design decisions have been made, requirements established, and a consensus reached.</p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Pros &amp; Cons</h2>
+
+
+
+<p><strong>Wireframe</strong></p>
+
+
+
+<div class="wp-block-columns are-vertically-aligned-top columns--fixed is-layout-flex wp-container-core-columns-is-layout-3 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow">
+<p><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/2705.png" alt="✅" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Pros</p>
+
+
+
+<ul>
+<li>Good for early stage design</li>
+
+
+
+<li>Quick to build</li>
+
+
+
+<li>Cost-effective</li>
+
+
+
+<li>Encourages feedback</li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow">
+<p><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/274c.png" alt="❌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Cons</p>
+
+
+
+<ul>
+<li>Uninspiring</li>
+
+
+
+<li>Unsuitable for user testing</li>
+
+
+
+<li>Lacks interactivity</li>
+
+
+
+<li>Doesn&#8217;t represent final product</li>
+</ul>
+</div>
+</div>
+
+
+
+<p><strong>Mockup</strong></p>
+
+
+
+<div class="wp-block-columns columns--fixed is-layout-flex wp-container-core-columns-is-layout-4 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/2705.png" alt="✅" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Pros</p>
+
+
+
+<ul>
+<li>High visual impact</li>
+
+
+
+<li>More inspiring than wireframes</li>
+
+
+
+<li>Good for catching mistakes</li>
+
+
+
+<li>Content ready</li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/274c.png" alt="❌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Cons</p>
+
+
+
+<ul>
+<li>Requires more time</li>
+
+
+
+<li>Needs polished content</li>
+
+
+
+<li>Harder to revise</li>
+
+
+
+<li>Discourages iteration</li>
+</ul>
+</div>
+</div>
+
+
+
+<p><strong>Prototype</strong></p>
+
+
+
+<div class="wp-block-columns columns--fixed is-layout-flex wp-container-core-columns-is-layout-5 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/2705.png" alt="✅" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Pros</p>
+
+
+
+<ul>
+<li>Pixel perfect</li>
+
+
+
+<li>Realistic user testing</li>
+
+
+
+<li>Showcases usability</li>
+
+
+
+<li>Mimics the final product</li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/274c.png" alt="❌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Cons</p>
+
+
+
+<ul>
+<li>Expensive</li>
+
+
+
+<li>Time-consuming</li>
+
+
+
+<li>Requires professional skills</li>
+
+
+
+<li>Less flexible</li>
+</ul>
+</div>
+</div>
+
+
+
+<h2 class="wp-block-heading">Which should I use?</h2>
+
+
+
+<h3 class="wp-block-heading">When to use wireframes</h3>
+
+
+
+<p>Wireframes work well in the early stages of the design process and are mostly used to convey the basic structure and layout of a project. Wireframes are great for brainstorming ideas and trying out competing solutions. And because wireframes can be adjusted quickly and easily, all members of the team can contribute – even those with no design experience!</p>
+
+
+
+<p>Use a wireframe when…</p>
+
+
+
+<ul>
+<li>You need a quick sketch to present to your stakeholders</li>
+
+
+
+<li>You lack UI/UX designer skills but you still need to showcase your idea</li>
+
+
+
+<li>You want to establish the fundamentals</li>
+
+
+
+<li>You want to explore multiple approaches to your design</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">When to use mockups</h3>
+
+
+
+<p>Mockups get you closer to a version of your end product. As the middle stage of the process, they are more polished – and require more resources – but don’t yet include clickable functionality.</p>
+
+
+
+<p>Use a mockup to…</p>
+
+
+
+<ul>
+<li>Visualize the final product</li>
+
+
+
+<li>Get everyone on the same page</li>
+
+
+
+<li>Reach consensus with your design team</li>
+
+
+
+<li>Fix issues before locking in the design</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">When to use prototypes</h3>
+
+
+
+<p>Prototyping normally comes at the end of the design process. Because prototypes are high fidelity, interactive and clickable, they give your team one last chance to test out the usability of your design – before sending your website or mobile app on to the development team.</p>
+
+
+
+<p>Use a prototype for&#8230; </p>
+
+
+
+<ul>
+<li>Assessing the user experience before development begins</li>
+
+
+
+<li>Validating your product’s functionality</li>
+
+
+
+<li>User testing and feedback</li>
+
+
+
+<li>Presenting your final product to investors</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Conclusion (TL;DR)</h2>
+
+
+
+<p>Wireframes, mockups and prototypes represent different stages in the development of a design, and exist along a spectrum of fidelity and interactivity from low to high fi.</p>
+
+
+
+<p><strong>Wireframes</strong> are like a blueprint, sketching out the skeletal structure of your product design, before design details are added. Since wireframes are quick and easy to create, they allow your team to experiment freely and explore all kinds of competing possibilities. Rendered in grayscale, the rough-draft nature of wireframes puts the focus on functionality and user flows rather than aesthetics.</p>
+
+
+
+<p><strong>Mockups</strong> are more detailed representations of a product that incorporate polished design elements and some branding like logos, colors, and visuals. They are used to convey an early sense of the final product, and inspire enthusiasm amongst the team and stakeholders. They also play an important role in forecasting the ultimate direction of the design – before pixel-perfect versions of the content are commissioned.</p>
+
+
+
+<p><strong>Prototypes</strong> are more refined mockups. They’re interactive, high-fidelity, and pixel-perfect. Because they require polished content and clickable features, they can be time consuming and expensive to produce. That also makes them resistant to last minute modifications, and vulnerable to the sunk-cost fallacy. However, because they can so accurately mimic the final product, they’re perfect for user testing, investor presentations – and final sign-off before the development process begins.</p>
+
+
+
+<p>I hope you now have a better understanding of the difference between wireframes, mockups and prototypes, and each option’s purpose.&nbsp;</p>
+
+
+
+<p>And if you’re ready to jump into your next project, Moqups is a <a href="https://moqups.com/">free online design tool</a> that can help you and your team create wireframes, mockups, and prototypes.</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-5 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button orange"><a class="wp-block-button__link wp-element-button" href="https://moqups.com/" target="_blank" rel="noreferrer noopener">Create a free account</a></div>
+</div>
+<p>The post <a href="https://moqups.com/blog/wireframe-vs-mockup-vs-prototype/">Wireframe vs Mockup vs Prototype: What&#8217;s the difference?</a> appeared first on <a href="https://moqups.com/blog">The Moqups Blog | Mockup, Wireframe &amp; UI Prototyping News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Low Fidelity vs High Fidelity Wireframes: Which should you use?</title>
+		<link>https://moqups.com/blog/low-fidelity-vs-high-fidelity-wireframes/</link>
+		
+		<dc:creator><![CDATA[Moqups Team]]></dc:creator>
+		<pubDate>Tue, 08 Jun 2021 08:20:16 +0000</pubDate>
+				<category><![CDATA[Best Practices]]></category>
+		<category><![CDATA[UI Design]]></category>
+		<category><![CDATA[UX]]></category>
+		<category><![CDATA[Wireframing]]></category>
+		<guid isPermaLink="false">https://moqups.com/blog/?p=3137</guid>
+
+					<description><![CDATA[<p>To establish an effective workflow for your team, it’s important to understand the difference between low-fidelity wireframes and high-fidelity prototypes.</p>
+<p>The post <a href="https://moqups.com/blog/low-fidelity-vs-high-fidelity-wireframes/">Low Fidelity vs High Fidelity Wireframes: Which should you use?</a> appeared first on <a href="https://moqups.com/blog">The Moqups Blog | Mockup, Wireframe &amp; UI Prototyping News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>If you’re already working with wireframes, or just seeking the right solution for your team’s wireframing and prototyping needs, you’ve probably encountered the terms ‘low fidelity’ and ‘high fidelity’.&nbsp;</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-6 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button aligncenter"><a class="wp-block-button__link wp-element-button" href="https://moqups.com/">Learn more about Moqups →</a></div>
+</div>
+
+
+
+<p>The general meaning of lo-fi and hi-fi isn’t that hard to intuit. But if you’re a founder, designer, developer, business analyst, product manager – or any part of a cross-functional team – it can be useful to dig a little deeper.</p>
+
+
+
+<p>Understanding fidelity, in the specific context of UX design, can help you build both a better product and a more efficient team. So, let’s take a look at wireframing’s importance in development, explain the difference between low and high-fidelity wireframes, and discuss how you can use both of them to maximum effect.</p>
+
+
+
+<h2 class="wp-block-heading">What is wireframing?</h2>
+
+
+
+<p>The term ‘wireframe’ predates its current use in digital design. Web and app designers borrowed the term from the world of CAD (computer-aided design) and CGI animation. And they, in turn, borrowed it from earlier fields of car modelling, stop-motion animation, and sculpture.&nbsp;</p>
+
+
+
+<p>In fact, most people are first exposed to wireframing when they’re children in primary school, and use chicken-wire to build frames for their papier-mâché puppets, masks and dinosaurs!</p>
+
+
+
+<p>In each of these cases, a wireframe serves the same purpose: to act as a rough approximation of the final product before the addition of final elements like surfaces, skins, colours, textures, lighting, etc.&nbsp;</p>
+
+
+
+<p>Think of a wireframe as the blueprint for a final design. It makes sense to experiment with this kind of skeleton – early in the design process – before a lot of time and money has been invested in a polished product, or the final coding begins.</p>
+
+
+
+<p>To get a sense of what wireframing looks like in web design, here’s a wireframe of a shopping cart, taken from our <a href="https://moqups.com/templates/wireframes-mockups/ecommerce-wireframe/">e-Commerce Website template</a> bundle. You can see that most of the important elements of the page are already in place. However, instead of full-color, branded graphics, and descriptive content, the wireframe uses generic placeholders:</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="746" src="https://moqups.com/blog/wp-content/uploads/2021/06/02.-Lo-fi-Wireframe-Example.png" alt="" class="wp-image-3139" srcset="https://moqups.com/blog/wp-content/uploads/2021/06/02.-Lo-fi-Wireframe-Example.png 1024w, https://moqups.com/blog/wp-content/uploads/2021/06/02.-Lo-fi-Wireframe-Example-300x219.png 300w, https://moqups.com/blog/wp-content/uploads/2021/06/02.-Lo-fi-Wireframe-Example-768x560.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>To dive more deeply into the wireframing process, check out our article, <a href="https://moqups.com/blog/wireframe-a-website/">How to Wireframe a Website: A complete guide.</a></p>
+
+
+
+<h2 class="wp-block-heading">What does fidelity mean in UI design?</h2>
+
+
+
+<p>In the same way that the notion of ‘wireframing’ was drawn from pre-existing design practices, the term ‘fidelity’ has been borrowed from the world of sound recording. In the early days of records and radio, low and high fidelity referred to the quality of music recording and playback.</p>
+
+
+
+<p>Similarly, in mobile app and web design, fidelity refers to the level of detail in a wireframe, mockup, or prototype. We often talk about low-fi and hi-fi as though they are distinct categories, but what they really represent are the beginning and end points in a product’s design evolution.</p>
+
+
+
+<p>Think of fidelity as a spectrum of detail and interactivity.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="886" src="https://moqups.com/blog/wp-content/uploads/2023/02/ezgif.com-gif-maker.webp" alt="example transition between low mid and high fidelity design of a coffee brand landing page" class="wp-image-3891" srcset="https://moqups.com/blog/wp-content/uploads/2023/02/ezgif.com-gif-maker.webp 1024w, https://moqups.com/blog/wp-content/uploads/2023/02/ezgif.com-gif-maker-300x260.webp 300w, https://moqups.com/blog/wp-content/uploads/2023/02/ezgif.com-gif-maker-768x665.webp 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>At the beginning of that spectrum, you’ll find analog paper sketches, as well as low-fidelity digital wireframes. Both use temporary placeholders to represent the basic design elements of a webpage or device screen. And both are useful when sketching out first iterations of an idea.</p>
+
+
+
+<p>Then, with each new refinement, the product’s representation evolves naturally from wireframe to mockup to prototype – shifting from lower to higher fidelity. Placeholders get replaced, first by draft versions, and then, ultimately, by final renditions of the product’s copy, content, graphics, and branding.</p>
+
+
+
+<p>At the tail end of the spectrum is a high-fidelity, fully interactive, clickable prototype that’s almost indistinguishable from the real product – and perfectly suited for user testing.</p>
+
+
+
+<p>Although, as we will see, the terms used to describe wireframing can both be quite flexible, this will give you a rough sense of what the range of fidelity looks like:</p>
+
+
+
+<ul>
+<li><strong>Wireframe</strong>: Low-fidelity, in monochrome, with placeholder images and text.</li>
+
+
+
+<li><strong>Mockup</strong>: Medium to high-fidelity with real images, color, and copy.</li>
+
+
+
+<li><strong>Prototype</strong>: High-fidelity with branding, images, copy – and interactivity – added.</li>
+</ul>
+
+
+
+<p>Although this is the typical process, teams often begin anywhere, and jump back and forth between low and hi-fi. So let’s take a look at both low and high-fidelity wireframes, and discuss both the advantages and disadvantages of each.</p>
+
+
+
+<h2 class="wp-block-heading">What are low-fidelity wireframes?</h2>
+
+
+
+<p>Low-fi wireframes act as the initial blueprints for web pages and app screens – a rough approximation of the final product. They’re especially useful in the early stages of product development because they put the focus on pure functionality, not aesthetics.</p>
+
+
+
+<p>Accordingly, they’re rendered in a monochrome palette – deliberately excluding specific details like colours, fonts, logos, and exact sizing. Instead, low-fidelity wireframes use image placeholders and basic shapes to indicate what elements will ultimately populate a page. Generic ‘lorem ipsum’ text or ‘redacted’ fonts stand in for future content and copy.<br>Here’s one of our <a href="https://moqups.com/templates/wireframes-mockups/low-fidelity-wireframe/">low-fidelity wireframe templates</a> to give you a sense of what all this looks like in practice:</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://moqups.com/blog/wp-content/uploads/2021/06/04.-Lo-fi-Wireframe-Template.png" alt="" class="wp-image-3141" srcset="https://moqups.com/blog/wp-content/uploads/2021/06/04.-Lo-fi-Wireframe-Template.png 1024w, https://moqups.com/blog/wp-content/uploads/2021/06/04.-Lo-fi-Wireframe-Template-300x300.png 300w, https://moqups.com/blog/wp-content/uploads/2021/06/04.-Lo-fi-Wireframe-Template-150x150.png 150w, https://moqups.com/blog/wp-content/uploads/2021/06/04.-Lo-fi-Wireframe-Template-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h3 class="wp-block-heading">Advantages of Low-Fidelity Wireframes</h3>
+
+
+
+<p>Low-fidelity wireframes are an important stepping stone between user-flow diagrams and hi-fi prototypes. And it’s precisely their lack of detail that makes them so valuable – and gives them a slew of advantages:</p>
+
+
+
+<p><strong>Capturing ideas</strong>: Because low-fi wireframes are quick to create, you can get valuable ideas out of your head before they disappear. Just a few clicks can move an abstract idea all the way from concept to creation, maintaining momentum for both you and your team.</p>
+
+
+
+<p><strong>Foundational work:</strong> A low-fi wireframe’s lack of detail can help your team focus on the fundamental functionality of your product, and its user-experience. Designers can check their assumptions with stakeholders – early in the game – and come to a quick consensus about what needs and doesn’t need to be on the screen, optimal density and spacing, and what information they want to collect and communicate.&nbsp;</p>
+
+
+
+<p><strong>Painless iteration: </strong>It’s always better to experiment before too much time and effort has been invested in any particular look. The best thing about low-fidelity wireframes is that they’re easy to change – or even discard. Since they’re simple to create, anyone in a cross-functional team can mock up their own variations, or suggest a new approach. Hearing all voices – especially in the early stages of design and development – is one of the best ways to build consensus and optimize user experience.&nbsp;</p>
+
+
+
+<p><strong>Streamlined workflow: </strong>Nothing is more damaging to momentum than wasted effort and needless backtracking. A low-fi wireframe lets your team resolve basic questions about content, layout, and product requirements before committing to a pixel-perfect digital prototype. By building upon solid decisions, team members can avoid reworking elaborately-rendered assets after the fact. And because lo-fi isn’t very time-consuming, teams can quickly mock up an entire user-flow. By establishing the scope of a project and its information architecture, your team can get early buy-in from stakeholders, and prevent later disappointment from misaligned expectations.</p>
+
+
+
+<h3 class="wp-block-heading">Disadvantages of Low-Fidelity Wireframes</h3>
+
+
+
+<p>Low-fi wireframes have lots of advantages, but only when they’re deployed at the right time, and for the right purpose. Because of their lack of refinement and detail, they also have a couple of drawbacks you need to consider:</p>
+
+
+
+<p><strong>Low visual impact:</strong> If the goal is to convey the look and feel of your future, finished product, then a low-fi wireframe is probably not the right choice. Their unpolished nature makes them less impressive than high-fidelity wireframes. This makes them unsuitable for some kinds of investor pitches and client presentations – especially if your stakeholders are unfamiliar with the design process. In these cases, a high-fidelity prototype can provide more ‘wow’ factor by mimicking the product’s eventual visual design.</p>
+
+
+
+<p><strong>Insufficient for tests:</strong> During the development process, UX designers will often use a low-fi wireframe to create a rough, clickable prototype by adding interactions. Low-fidelity prototyping can work well for the purposes of internal experimentation, but it’s often inadequate for public user testing. That’s because low-fidelity prototypes lack a full set of visual cues (shape, color, text, spacing). As a result, users may be slow to navigate the UI – and that can make it hard to accurately assess a product’s usability.</p>
+
+
+
+<p>Before we turn our attention to hi-fi, here’s a brief summary of low-fidelity’s pros and cons:</p>
+
+
+
+<h4 class="wp-block-heading">Low-Fi Pros</h4>
+
+
+
+<ul class="pros">
+<li>Quick to build, easy to iterate</li>
+
+
+
+<li>Focuses on function not aesthetics</li>
+
+
+
+<li>Establishes consensus early on</li>
+
+
+
+<li>Works out flow before costly content</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading">Low-Fi Cons</h4>
+
+
+
+<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
+<ul class="cons">
+<li>Less inspiring than hi-fi</li>
+
+
+
+<li>Lacks full interactivity</li>
+
+
+
+<li>Inadequate for unmoderated testing</li>
+
+
+
+<li>Unsuited for investor pitch</li>
+</ul>
+</div></div>
+
+
+
+<h2 class="wp-block-heading">What are high fidelity wireframes?</h2>
+
+
+
+<p>High-fi wireframes are thrilling because they mimic the look and feel of an app or website – before it’s actually developed. They normally include all the branding, copy, colors, logos, fonts, and graphics that will be part of the final product.</p>
+
+
+
+<p>Hi-fi wireframes are most useful at the tail end of the design process, after initial user-research is complete, and underlying decisions about both layout and content have been made.&nbsp;</p>
+
+
+
+<p>Wireframes with hi-fi elements, but no interactivity, are often called mockups. A mockup becomes a high-fidelity prototype once interactions, transitions, or animations are added. With clickable menus and buttons, hi-fi prototypes provide a visceral sense of the user experience. This allows teams to tweak usability before final design approvals, testing, and hand-off to the developers.</p>
+
+
+
+<p>If you have your hi-fi content ready to go, here’s a <a href="https://moqups.com/templates/wireframes-mockups/high-fidelity-wireframe/">high-fidelity wireframe template</a> that you can quickly customize. Just swap in your copy, images, graphics, branding, and colors:</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://moqups.com/blog/wp-content/uploads/2021/06/05.-Hi-fi-Wireframe-Template.png" alt="" class="wp-image-3142" srcset="https://moqups.com/blog/wp-content/uploads/2021/06/05.-Hi-fi-Wireframe-Template.png 1024w, https://moqups.com/blog/wp-content/uploads/2021/06/05.-Hi-fi-Wireframe-Template-300x300.png 300w, https://moqups.com/blog/wp-content/uploads/2021/06/05.-Hi-fi-Wireframe-Template-150x150.png 150w, https://moqups.com/blog/wp-content/uploads/2021/06/05.-Hi-fi-Wireframe-Template-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h3 class="wp-block-heading">Advantages of High-Fidelity Wireframes</h3>
+
+
+
+<p>With their detail and interactivity, high-fidelity wireframes can provide an effective preview of your product, and offer your team a number of important advantages:</p>
+
+
+
+<p><strong>Inspire enthusiasm:</strong> The leap from low-fi to hi-fi can be inspiring for everyone involved. After laying the foundations in grayscale, it can be refreshing for teams to see their efforts rendered in full color and detail. And, from a realistic prototype, stakeholders, clients, and investors can better grasp the product’s true appeal. In fact, because of their high visual impact, founders sometimes create hi-fi wireframes at the very beginning of the design process – often using borrowed mood-board elements – just to give team members an early sense of their vision.</p>
+
+
+
+<p><strong>Refined feedback: </strong>Since high-fidelity wireframes capture the full look and feel of a product, they provide an essential opportunity for feedback in the advanced stages of visual design. The team gets a chance to review everything from big-picture issues like branding and user flow, to smaller details issues like type legibility and exact spacing. Collaborators can comment directly on the design – or even engage in live editing sessions with graphic designers, illustrators, copywriters, and developers. Precise feedback, on a highly detailed wireframe, lets the team make their final tweaks – and establish a final consensus on the project’s deliverables – before handoff to the development team.&nbsp;</p>
+
+
+
+<p><strong>Immersive experience: </strong>Adding interactions can bring a design to life by turning it into a clickable prototype. Interactivity can be added at any stage in your wireframing, but is most effective towards the end of the design process when your team may want to assess and refine your product’s usability. With active buttons and clickable menus, a high-fidelity prototype can mimic your actual app or website, and give stakeholders a real feel for the eventual user-experience.&nbsp;</p>
+
+
+
+<p><strong>Accurate testing: </strong>Hi-fi prototypes can be valuable assessment tools, especially if you have the resources to perform unmoderated user-testing. Sure, teams can perform guided tests with anything from paper wireframes to hi-fi mockups. But if your goal is to gather realistic data about user interactions and response times, or test specific UI components, then you’ll want to run unmoderated tests. And for that, you’ll need a high-fidelity prototype. A fully-interactive, clickable prototype will minimize human error and provide more accurate results.</p>
+
+
+
+<h3 class="wp-block-heading">Disadvantages of High-Fidelity Wireframes</h3>
+
+
+
+<p>With their refinement, detail, and interactivity, hi-fi wireframes and prototypes have a lot to recommend them. But because teams often make the mistake of building them at the wrong time, it’s worth reviewing a few of their drawbacks and down-sides:</p>
+
+
+
+<p><strong>Resource intensive: </strong>It only makes sense to work in hi-fi if you’re prepared to invest a lot of expertise. A credible high-fidelity prototype requires the involvement of UX designers, graphic artists, and copywriters. It may also require coordination with a myriad of outside collaborators responsible for elements like photos and videos. Creating detailed hi-fi assets – and incorporating them into a polished design – requires both time and money. And that can mean a longer and more expensive deliverable timeline.</p>
+
+
+
+<p><strong>Revision resistant:</strong> It’s much easier to experiment before everybody’s webbed to a specific design. Because hi-fi prototypes take a lot of effort to create, it’s easy for the team to become deeply invested in a particular approach. At that point, it can be painful to change direction. Altering a hi-fi asset may leave team members the feeling that they’re ‘back to square one’, or have done a lot of ‘wasted work.’ Although much may have been learned through the process, this can still lead to loss of momentum and demoralization. A related problem is that, once stakeholders have seen an inspiring hi-fi rendition, they may become impatient for deployment. The combination of these two factors can discourage exactly the kind of radical revision that’s often needed – and lead to a <a href="https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/sunk-cost-fallacy/">sunk cost fallacy</a>.</p>
+
+
+
+<p>Here’s a brief summary of a high-fidelity prototype’s pros and cons:</p>
+
+
+
+<h4 class="wp-block-heading">Hi-Fi Pros</h4>
+
+
+
+<ul class="pros">
+<li>Offers look and feel of final product</li>
+
+
+
+<li>Clickable and interactive</li>
+
+
+
+<li>More accurate for user testing</li>
+
+
+
+<li>Delivers design requirements for dev</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading">Hi-Fi Cons</h4>
+
+
+
+<ul class="cons">
+<li>Needs a longer timeline</li>
+
+
+
+<li>Requires graphics and content</li>
+
+
+
+<li>Iteration takes time and effort</li>
+
+
+
+<li>Polished work discourages feedback</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">When to go high and when to go low?</h2>
+
+
+
+<p>High and low fidelity wireframes are really just the bookends for an entire spectrum of fidelity. In practice, most teams move fluidly through that range as their projects evolve, incorporating both hi and low-fidelity elements.</p>
+
+
+
+<p>For instance, if you’re working on a new page for an established website – or a new feature for an existing app – your team may jump-start their wireframing by adapting existing designs. They’ll superimpose lo-fi elements on top of hi-fi screenshots to work out the new configuration. Closer to development, they may refine those low-fidelity elements, or simply hand off the work, knowing that the dev team’s already familiar with the branding requirements.</p>
+
+
+
+<p>Another example of a hi/low-fi hybrid is when <a href="https://www.wisevu.com/blog/why-content-writers-need-wireframes/#:~:text=When%20the%20writer%20can%20wireframe,it%20is%20going%20to%20flow">copywriters jump into the design process</a> early in the game. The scope and nature of written content depends heavily on the user-flow, page-layout, and available space. So, in order to create better overall cohesion between copywriting and UX/design, it often makes sense for copywriters to compose directly onto a low-fidelity wireframe. In these cases, the copy goes hi-fi long before the graphical elements, and often dictates design, rather than the other way around.</p>
+
+
+
+<p>The Nielsen Norman Group has a great way of thinking about the question of fidelity within a wireframe or prototype. They point out that the <a href="https://www.nngroup.com/articles/ux-prototype-hi-lo-fidelity/">level of fidelity can vary in three areas: Interactivity, Visuals, and Content</a>. In other words, as your project evolves, your team will likely mix and match both high and low-fidelity elements from each of these areas, depending on the nature of your workflow.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://moqups.com/blog/wp-content/uploads/2021/06/06.-Wireframe-Choice-1024x576.png" alt="" class="wp-image-3143" srcset="https://moqups.com/blog/wp-content/uploads/2021/06/06.-Wireframe-Choice-1024x576.png 1024w, https://moqups.com/blog/wp-content/uploads/2021/06/06.-Wireframe-Choice-300x169.png 300w, https://moqups.com/blog/wp-content/uploads/2021/06/06.-Wireframe-Choice-768x432.png 768w, https://moqups.com/blog/wp-content/uploads/2021/06/06.-Wireframe-Choice-1536x864.png 1536w, https://moqups.com/blog/wp-content/uploads/2021/06/06.-Wireframe-Choice.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Understanding fidelity is important, but so is the freedom to pick and choose. So, the question isn’t about whether to go low or hi-fi, but about how to deploy the right level of fidelity depending on your team’s resources, timeline, and expectations.&nbsp;</p>
+
+
+
+<p>At Moqups, we understand that any real-world workflow will inevitably be both messier – and more organic – than any predefined descriptions. That’s why our app is designed to give your team maximum flexibility. With Moqups, you can begin anywhere – in lo-fi or hi-fi – and then jump back and forth, depending on your requirements.&nbsp;</p>
+
+
+
+<p>Our app is simple to use, and has a huge template library – so it&#8217;s easy to get started. And because Moqups is an all-in-one collaboration platform, your team can <a href="https://moqups.com/blog/to-wireframes-and-beyond">go beyond wireframes and prototypes</a>, and collaborate in real time on digital whiteboards, diagrams, flowcharts, and strategic frameworks – all within the same app and creative context.</p>
+
+
+
+<p>No matter how your team incorporates fidelity in their workflow, and no matter where you are in the process of product design, Moqups lets your team work together in real time, hear from all your stakeholders, and leave feedback right on the design.</p>
+
+
+
+<p>So, if you haven’t signed up yet, come try us out. Setting up an account is absolutely free!</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-7 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button orange aligncenter"><a class="wp-block-button__link wp-element-button" href="https://app.moqups.com/sign-up/">Create a free account →</a></div>
+</div>
+
+
+
+<p class="has-text-align-center"></p>
+<p>The post <a href="https://moqups.com/blog/low-fidelity-vs-high-fidelity-wireframes/">Low Fidelity vs High Fidelity Wireframes: Which should you use?</a> appeared first on <a href="https://moqups.com/blog">The Moqups Blog | Mockup, Wireframe &amp; UI Prototyping News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Work in the Time of Quarantine</title>
+		<link>https://moqups.com/blog/remote-work-quarantine/</link>
+		
+		<dc:creator><![CDATA[Moqups Team]]></dc:creator>
+		<pubDate>Tue, 31 Mar 2020 11:00:16 +0000</pubDate>
+				<category><![CDATA[Best Practices]]></category>
+		<category><![CDATA[Collaboration]]></category>
+		<category><![CDATA[Remote Teams]]></category>
+		<category><![CDATA[Work From Home]]></category>
+		<guid isPermaLink="false">https://moqups.com/blog/?p=2777</guid>
+
+					<description><![CDATA[<p>Remote work and collaboration have never been more critical to people’s lives as they are now. Here’s how Moqups can help.</p>
+<p>The post <a href="https://moqups.com/blog/remote-work-quarantine/">Work in the Time of Quarantine</a> appeared first on <a href="https://moqups.com/blog">The Moqups Blog | Mockup, Wireframe &amp; UI Prototyping News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<pre class="wp-block-verse">We’ve&nbsp;doubled&nbsp;the number of seats on our&nbsp;Pro&nbsp;plans so you can include more of your team. Find out more <a href="https://moqups.com/pricing/">here</a>.</pre>
+
+
+
+<p>Until a couple of weeks ago, having an e-commerce option or a work-from-home policy just seemed like smart business plans.&nbsp;</p>
+
+
+
+<p>Now, they&#8217;re survival strategies and public services.</p>
+
+
+
+<p>As families and companies scramble to cope with the new reality by distancing themselves physically, they’re also being asked to coordinate and collaborate to an unprecedented degree.</p>
+
+
+
+<p>There’s a rising sense of both social and organizational solidarity as we all struggle to stay safe, maintain a sense of community, and provide for continuity in the face of disruption.&nbsp;</p>
+
+
+
+<p>Every business is coming to terms with the WFH reality, and looking for ways to maintain office chemistry, collegiality, and productivity – without the actual office.</p>
+
+
+
+<h2 class="wp-block-heading">Learning to work together while apart</h2>
+
+
+
+<p>We’re reminded, profoundly, of how much we need one another – and how we need to work together to confront this challenge. And that will require collaboration on an entirely new level. We’ll need different workflows and protocols to reflect our work-from-home reality, and to stay productive.</p>
+
+
+
+<p>Over the next few months, as we continue to build and deliver products, we’re going to have to simultaneously design and implement new ways of working.&nbsp;</p>
+
+
+
+<p>At Moqups, we want to help – and we hope we can.&nbsp;</p>
+
+
+
+<p>Moqups was designed to make visual collaboration possible, especially for distributed teams. That’s why we feel we have an important role to play as current customers expand their remote workforce – and new customers turn to Moqups for solutions and support.</p>
+
+
+
+<p>In today’s post, we’re going to look at a few specific challenges that teams are likely to face as they shift to WFH – and how they can best use Moqups to make that transition easier.</p>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-fill aligncenter"><a class="wp-block-button__link wp-element-button" href="https://moqups.com/" title="">Learn more about Moqups</a></div>
+</div>
+
+
+
+<h2 class="wp-block-heading">Reflect your office structure online</h2>
+
+
+
+<p>One of the immediate problems that companies face, as their employees shift to remote work, is how to mirror the protocols and permissions of the physical office within the online world.</p>
+
+
+
+<p>Who gets access to what visual spaces and to what projects? Is there private space for experimentation and exploration? Is there common space for brainstorming and planning? And how do teams engage with one another – to have conversations, provide feedback, and make decisions?</p>
+
+
+
+<p>When teams are remote and distributed, it’s important that companies recreate not just the hierarchies of the brick-and-mortar office, but its social structures, morale, and ease of companionship. To do that, teams need to find that delicate balance between transparency and protected space.&nbsp;</p>
+
+
+
+<p>We recently released new <a href="https://moqups.com/blog/roles-permissions-live-collaboration/">Team Roles and Project Permissions</a> features to help address these issues.</p>
+
+
+
+<p>For instance, within Moqups, a team’s Admin and Managers can invite members, assign roles, and set access.</p>
+
+
+
+<figure class="wp-block-video"><video autoplay="" muted="" loop="" playsinline=""><source src="https://landing.moqups.com/blog/wp-content/uploads/2020/03/02.-Team-Management.mp4" type="video/mp4"></video><figcaption class="wp-element-caption"><em>Team Management</em></figcaption></figure>
+
+
+
+<p>At the project level, there’s a whole other layer of granular sharing controls available. Creators can choose to work privately, invite individual collaborators, or open up projects to the entire team.&nbsp;</p>
+
+
+
+<p>By default, all projects are private and by invitation only. Collaborators can be added, and their permissions adjusted, on an individual basis.&nbsp;</p>
+
+
+
+<p>Of course, the project can instantly be shared with the entire team just by toggling <strong>Enable Team Access</strong> to the ‘on’ position.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="2336" height="1736" src="https://moqups.com/blog/wp-content/uploads/2020/03/03.-Sharing-Window.png" alt="" class="wp-image-2780" srcset="https://moqups.com/blog/wp-content/uploads/2020/03/03.-Sharing-Window.png 2336w, https://moqups.com/blog/wp-content/uploads/2020/03/03.-Sharing-Window-300x223.png 300w, https://moqups.com/blog/wp-content/uploads/2020/03/03.-Sharing-Window-1024x761.png 1024w, https://moqups.com/blog/wp-content/uploads/2020/03/03.-Sharing-Window-768x571.png 768w, https://moqups.com/blog/wp-content/uploads/2020/03/03.-Sharing-Window-1536x1141.png 1536w, https://moqups.com/blog/wp-content/uploads/2020/03/03.-Sharing-Window-2048x1522.png 2048w" sizes="(max-width: 2336px) 100vw, 2336px" /><figcaption class="wp-element-caption"><em>Project Sharing Window</em></figcaption></figure>
+
+
+
+<p>Setting up an online team is just one way your company can help ease the transition to remote work.&nbsp;For a quick overview of these capabilities, check out our recent <a href="https://moqups.com/blog/roles-permissions-live-collaboration/">blog post</a>.&nbsp;&nbsp;</p>
+
+
+
+<p>And, for the nitty gritty about how to use and implement these features, check out the <a href="https://support.moqups.com/hc/en-us/sections/115000798969-Teams-Roles">Teams &amp; Roles</a> and <a href="https://support.moqups.com/hc/en-us/sections/115000798889-Sharing-Permissions">Sharing &amp; Permissions </a>sections of our Help Center.</p>
+
+
+
+<h2 class="wp-block-heading">Adjust and adapt to the realities of WFH</h2>
+
+
+
+<p>Working from home has always been challenging. It’s a lot tougher in the midst of this crisis.&nbsp;</p>
+
+
+
+<p>Employees have had to establish instant home offices – often with children home from school, outside activities restricted, and limited support from caregivers or extended family. We understand this keenly, because Moqups made the shift to an all-remote workforce a couple of weeks ago.&nbsp;</p>
+
+
+
+<p>Companies need to be patient as their remote workers establish new rhythms, and learn to balance their domestic and professional obligations.&nbsp;</p>
+
+
+
+<p>The key to managing these overlapping commitments is for individual team members to establish both core and flexible hours. Core hours allow for essential, realtime conversations and collaboration, and flex hours accommodate the inevitable commitments and interruptions of stay-at-home work.</p>
+
+
+
+<p>To achieve this balance of both fixed and flexible work, organizations need to rely on a combination of synchronous and asynchronous communication. This combination is familiar to distributed teams who, before the Covid-19 crisis, had learned to pass the work baton seamlessly across multiple time zones.&nbsp;</p>
+
+
+
+<p>One of the key lessons from that distributed experience is that teams need opportunities to communicate in real time, but they also need asynchronous channels for ongoing feedback and documentation – especially now that checking with a colleague down the hall is no longer an option.</p>
+
+
+
+<p>Moqups has three great features that can help your team with both synchronous and asynchronous work.</p>
+
+
+
+<h3 class="wp-block-heading">Live Collaboration makes it easy to create together in real time</h3>
+
+
+
+<p>When you are able to work together, your team can use our <a href="https://support.moqups.com/hc/en-us/sections/115000810945-Live-Collaboration">Live Collaboration</a> tools to think, create and edit in real time.&nbsp;</p>
+
+
+
+<p>No matter whether you are brainstorming, strategizing or wireframing, our live presence lets you find your colleagues, locate the objects they’ve selected, and follow their cursor as they edit – putting your whole team on the same page, at the same time.</p>
+
+
+
+<figure class="wp-block-video"><video autoplay="" muted="" loop="" playsinline=""><source src="https://landing.moqups.com/blog/wp-content/uploads/2020/03/04.-Live-Presence.mp4" type="video/mp4"></video><figcaption class="wp-element-caption"><em>Live Presence and Realtime Editing</em></figcaption></figure>
+
+
+
+<p>To find out how Live Collaboration can work effectively in combination with our Teams, Sharing and Permission features, please check out our recent <a href="https://moqups.com/blog/roles-permissions-live-collaboration/">blog post</a>.</p>
+
+
+
+<h3 class="wp-block-heading">Comments help teams hear all voices and make quick decisions</h3>
+
+
+
+<p>Live Collaboration works in combination with our commenting feature, so that teams can provide feedback, right on the design, either in real time or asynchronously.&nbsp;</p>
+
+
+
+<p>Comment threads are great for soliciting input, exploring options, coming to consensus, and making decisions. And because they are time stamped – and can be filtered, resolved and re-opened – they provide a valuable source of truth and documentation. This way, all collaborators can quickly catch up on developments and get back in sync as their schedule permits.</p>
+
+
+
+<figure class="wp-block-video"><video autoplay="" muted="" loop="" playsinline=""><source src="https://landing.moqups.com/blog/wp-content/uploads/2020/03/05.-Comments.mp4" type="video/mp4"></video><figcaption class="wp-element-caption"><em>Adding and Managing Comments</em></figcaption></figure>
+
+
+
+<p>Since comments can be muted at both the thread, project or team level, every member of the team can choose which conversations to follow.&nbsp; Still, if there’s a sudden need to bring a collaborator into the loop, you can always use an @mention to get their attention – even if they have their notifications turned off.</p>
+
+
+
+<figure class="wp-block-video"><video autoplay="" muted="" loop="" playsinline=""><source src="https://landing.moqups.com/blog/wp-content/uploads/2020/03/06.-Comment-Mention.mp4" type="video/mp4"></video><figcaption class="wp-element-caption"><em>Comment Mentions</em></figcaption></figure>
+
+
+
+<h3 class="wp-block-heading">Callouts and Annotations put ideas and feedback right where they’re needed</h3>
+
+
+
+<p>Our <a href="https://support.moqups.com/hc/en-us/articles/360012652879-Callouts-Annotations">annotation stencils</a> are designed to be as versatile as possible, so your team can improvise and deploy them in all kinds of ways. They include Sticky Notes, as well as Callouts, Brackets, Speech Bubbles, and Thought Bubbles.</p>
+
+
+
+<p>As teams build flows and develop wireframes asynchronously, Sticky Notes can provide essential guidance, making suggestions, or communicating basic UI, page, or business rules – right on the design.</p>
+
+
+
+<p>And Callout, Bracket, Speech Bubble and Thought Bubble stencils are great for quick annotations,&nbsp;pointing towards actionable items, or highlighting areas of the page that need the team’s attention.</p>
+
+
+
+<figure class="wp-block-video"><video autoplay="" muted="" loop="" playsinline=""><source src="https://landing.moqups.com/blog/wp-content/uploads/2020/03/07.-Annotations.mp4" type="video/mp4"></video><figcaption class="wp-element-caption"><em>Adding, Formatting and Attaching Annotations</em></figcaption></figure>
+
+
+
+<p>As teams adapt to working remotely, they’ll need plenty of opportunities to work together around a virtual whiteboard. Sticky Notes are also great for brainstorming, planning, and creating business models.</p>
+
+
+
+<p>With Moqups, your team can start with a blank page, or use one of our <a href="https://moqups.com/templates/business-strategy/">Business Strategy templates</a> to kick start the discussion.</p>
+
+
+
+<figure class="wp-block-video"><video autoplay="" muted="" loop="" playsinline=""><source src="https://landing.moqups.com/blog/wp-content/uploads/2020/03/08.-Annotations-Template-2.mp4" type="video/mp4"></video><figcaption class="wp-element-caption"><em>Using Sticky Notes with Templates</em></figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">Get your entire remote team onboard and working together</h2>
+
+
+
+<p>Lastly, we know that, because of the current challenges, many organizations are trying Moqups for the first time. And our long-term customers may be inviting more of their colleagues onboard as they create ever more diversified and cross-functional teams.</p>
+
+
+
+<p>This is exactly why and how we built Moqups – to be as accessible and versatile as possible. Because our UI is simple, clear and intuitive, people with a wide range of expertise can come together and work in a shared environment.</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>As both a product owner and a CEO with 75 employees, I use Moqups primarily for product design. But we’ve also used it for everything from org charts to laying out our office space. It’s incredibly intuitive, fast, and accessible everywhere. It’s literally my favorite tool.</p>
+<cite>Luke Freiler, Centercode</cite></blockquote>
+
+
+
+<p>Moqups is much easier to use than complicated design apps – and is great for getting basic and necessary things done without overcomplicating the process. It’s also very flexible and can be used at every level – not just for wireframing and design – but for everything from brainstorming to presentations to diagramming to… well, you get the idea.&nbsp;</p>
+
+
+
+<p>Moqups can be used to coordinate a wide variety of projects and workflows, and that makes it a powerful repository and source of truth – so your team can search and find the information they need, whenever they need it.</p>
+
+
+
+<p>To help get everyone up to speed, we also have a <a href="https://moqups.com/templates/">wide range of templates</a> that can kick-start the conversations, and be quickly adapted and customized to match your team’s specific needs.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="571" src="https://moqups.com/blog/wp-content/uploads/2020/03/09.-Templates-1024x571.png" alt="" class="wp-image-2785" srcset="https://moqups.com/blog/wp-content/uploads/2020/03/09.-Templates-1024x571.png 1024w, https://moqups.com/blog/wp-content/uploads/2020/03/09.-Templates-300x167.png 300w, https://moqups.com/blog/wp-content/uploads/2020/03/09.-Templates-768x428.png 768w, https://moqups.com/blog/wp-content/uploads/2020/03/09.-Templates-1536x856.png 1536w, https://moqups.com/blog/wp-content/uploads/2020/03/09.-Templates-2048x1142.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>Moqups Templates</em></figcaption></figure>
+
+
+
+<p>We know that the days, weeks and months are going to be challenging, and we hope that Moqups can help your team stay organized, productive and resilient.</p>
+
+
+
+<p>If you’re new to Moqups, we’d like to help you explore, experiment, and get down to work. And, if you’re one of our existing customers, we’re here to help and support you in any way we can. So please don’t hesitate to reach out at <a href="mailto:support@moqups.com">support@moqups.com</a></p>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button orange aligncenter"><a class="wp-block-button__link wp-element-button" href="https://app.moqups.com/sign-up/" title="">Create a Free Account</a></div>
+</div>
+<p>The post <a href="https://moqups.com/blog/remote-work-quarantine/">Work in the Time of Quarantine</a> appeared first on <a href="https://moqups.com/blog">The Moqups Blog | Mockup, Wireframe &amp; UI Prototyping News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>7 Free Wireframe Templates for SaaS &#038; Software Companies</title>
+		<link>https://moqups.com/blog/free-wireframe-templates-saas/</link>
+		
+		<dc:creator><![CDATA[Moqups Team]]></dc:creator>
+		<pubDate>Tue, 17 Mar 2020 13:47:57 +0000</pubDate>
+				<category><![CDATA[Best Practices]]></category>
+		<category><![CDATA[Templates]]></category>
+		<category><![CDATA[wireframe]]></category>
+		<category><![CDATA[Wireframing]]></category>
+		<guid isPermaLink="false">https://moqups.com/blog/?p=2743</guid>
+
+					<description><![CDATA[<p>Looking for a wireframe tool for your whole team? Moqups makes it easy for remote teams to work together, from anywhere, and collaborate in real time. Over 2,000,000 teams choose Moqups to take ideas from concept to creation. Find out why &#62; We&#8217;ve curated a list of 7 free wireframe templates that are meant to [&#8230;]</p>
+<p>The post <a href="https://moqups.com/blog/free-wireframe-templates-saas/">7 Free Wireframe Templates for SaaS &#038; Software Companies</a> appeared first on <a href="https://moqups.com/blog">The Moqups Blog | Mockup, Wireframe &amp; UI Prototyping News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<pre class="wp-block-verse"><strong>Looking for a wireframe tool for your whole team?</strong>
+
+Moqups makes it easy for remote teams to work together, from anywhere, and collaborate in real time.
+
+Over 2,000,000 teams choose Moqups to take ideas from concept to creation. <a href="https://moqups.com/wireframe-tool/">Find out why &gt;</a>
+</pre>
+
+
+
+<p>We&#8217;ve curated a list of 7 free wireframe templates that are meant to help SaaS companies serve their existing customers better while gaining new users with a minimum of effort. As our wireframes offer a mix of strategy and content, you&#8217;ll find that using them does not require any additional resources, especially in the incipient stage of your project.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">1. Pricing Page Wireframe Template</h2>
+
+
+
+<p>The key to a comprehensive pricing page is transparency. Without it, you could potentially put your company at the risk of losing customers and decreasing conversion rates. </p>
+
+
+
+<p>It may sound surprising, but it&#8217;s not easy to find the right balance between offering users essential information about pricing plans and overwhelming them with details that could be easily left out.&nbsp;It may often feel as if every bit of information is essential for the user, but as a SaaS company, you need to know what qualifies as vital information and what is extra. </p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://moqups.com/templates/wireframes-mockups/pricing-page/" target="_blank" rel="noopener noreferrer"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://moqups.com/blog/wp-content/uploads/2020/03/pricing_page.png" alt="Pricing Page Wireframe Template" class="wp-image-2748" title="Pricing Page Wireframe Template" srcset="https://moqups.com/blog/wp-content/uploads/2020/03/pricing_page.png 1024w, https://moqups.com/blog/wp-content/uploads/2020/03/pricing_page-300x300.png 300w, https://moqups.com/blog/wp-content/uploads/2020/03/pricing_page-150x150.png 150w, https://moqups.com/blog/wp-content/uploads/2020/03/pricing_page-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<p>Luckily, our <a rel="noreferrer noopener" aria-label="pricing page wireframe template (opens in a new tab)" href="https://moqups.com/templates/wireframes-mockups/pricing-page/" target="_blank">pricing page wireframe template</a> can quickly act as a filter you can use when deciding which type of information is needed on your pricing page and which is not.</p>
+
+
+
+<p>We&#8217;re always working towards helping you simplify your work, and this is why our template comes with the following four main sections that display accurate information, accessible to anyone at any given time:</p>
+
+
+
+<ul>
+<li>Pricing plans</li>
+
+
+
+<li>Feature plan comparison</li>
+
+
+
+<li>Frequently asked questions</li>
+
+
+
+<li>Contact support</li>
+</ul>
+
+
+
+<p>With a wide range of information already available at hand, users will be less likely to contact customer support for common additional questions and only get in touch when dealing with more complex issues.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">2. Mobile App Wireframe Template</h2>
+
+
+
+<p>Another one of the free wireframe templates we offer is the <a rel="noreferrer noopener" aria-label="mobile app template (opens in a new tab)" href="https://moqups.com/templates/wireframes-mockups/mobile-app/" target="_blank">mobile app template</a>. If releasing a new mobile app is a priority for your business in the upcoming quarters, you can use our mobile app wireframe template to quickly mockup layouts, functionalities, and basic designs of your app.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://moqups.com/templates/wireframes-mockups/mobile-app/" target="_blank" rel="noopener noreferrer"><img loading="lazy" decoding="async" width="1024" height="701" src="https://moqups.com/blog/wp-content/uploads/2020/03/mobile_app-1024x701.png" alt="Mobile App Wireframe Template" class="wp-image-2752" title="Mobile App Wireframe Template" srcset="https://moqups.com/blog/wp-content/uploads/2020/03/mobile_app-1024x701.png 1024w, https://moqups.com/blog/wp-content/uploads/2020/03/mobile_app-300x205.png 300w, https://moqups.com/blog/wp-content/uploads/2020/03/mobile_app-768x526.png 768w, https://moqups.com/blog/wp-content/uploads/2020/03/mobile_app.png 1496w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<p>This tool will act as a bridge between the process of brainstorming ideas and the finished product. Both you and your team will be able to visualize and establish in-app navigation, design, and functionality. Moreover, this template will help you craft a smooth user experience, which is a crucial element when it comes to the success of any mobile application.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">3. Mobile App Landing Page Wireframe Template</h2>
+
+
+
+<p>When launching a new mobile app, it&#8217;s not enough to simply add it to the app store, cross your fingers, and hope that people will somehow find their way to it.&nbsp;</p>
+
+
+
+<p>You need a clear strategy on promoting this app and this is where the mobile app landing page wireframe template comes into play.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://moqups.com/templates/wireframes-mockups/mobile-app-landing-page/" target="_blank" rel="noopener noreferrer"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://moqups.com/blog/wp-content/uploads/2020/03/mobile_app_lp.png" alt="Mobile App Landing Page Wireframe Template" class="wp-image-2754" title="Mobile App Landing Page Wireframe Template" srcset="https://moqups.com/blog/wp-content/uploads/2020/03/mobile_app_lp.png 1024w, https://moqups.com/blog/wp-content/uploads/2020/03/mobile_app_lp-300x300.png 300w, https://moqups.com/blog/wp-content/uploads/2020/03/mobile_app_lp-150x150.png 150w, https://moqups.com/blog/wp-content/uploads/2020/03/mobile_app_lp-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<p>We&#8217;ve designed a <a href="https://moqups.com/templates/wireframes-mockups/mobile-app-landing-page/" target="_blank" rel="noreferrer noopener" aria-label="mobile app landing page template (opens in a new tab)">mobile app landing page template</a> that will make it easier to promote mobile apps successfully. As this is one of our free wireframe templates, you can use it by simply signing up with a free account. </p>
+
+
+
+<p>Once you&#8217;ve registered, you&#8217;ll discover a set of strategic sections, such as app features or benefits that are aimed at introducing your app to the broader crowds. If you&#8217;re revamping your mobile app, your landing page can also include testimonials from previous users.</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-10 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button orange aligncenter"><a class="wp-block-button__link wp-element-button" href="https://app.moqups.com/sign-up/?utm_source=blog&amp;utm_medium=article&amp;utm_campaign=moqups" title="https://app.moqups.com/sign-up/?utm_source=blog&amp;utm_medium=article&amp;utm_campaign=moqups" target="_blank" rel="noreferrer noopener">Create a free account</a></div>
+</div>
+
+
+
+<h2 class="wp-block-heading">4. SaaS Landing Page Wireframe Template</h2>
+
+
+
+<p>Whether you&#8217;re just entering the SaaS industry or you already have experience in this field, you&#8217;ll find that this template is a convenient tool to use when planning to introduce a product or a service to the markets.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://moqups.com/templates/wireframes-mockups/saas-landing-page/" target="_blank" rel="noopener noreferrer"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://moqups.com/blog/wp-content/uploads/2020/03/saas_lp-1.png" alt="SaaS Landing Page Wireframe Template" class="wp-image-2747" title="SaaS Landing Page Wireframe Template" srcset="https://moqups.com/blog/wp-content/uploads/2020/03/saas_lp-1.png 1024w, https://moqups.com/blog/wp-content/uploads/2020/03/saas_lp-1-300x300.png 300w, https://moqups.com/blog/wp-content/uploads/2020/03/saas_lp-1-150x150.png 150w, https://moqups.com/blog/wp-content/uploads/2020/03/saas_lp-1-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<p>We designed the <a href="https://moqups.com/templates/wireframes-mockups/saas-landing-page/" target="_blank" rel="noreferrer noopener" aria-label="SaaS landing page template (opens in a new tab)">SaaS landing page template</a> to help you complete essential steps in the promotional process of your product, such as:&nbsp;</p>
+
+
+
+<ul>
+<li>Listing the main benefits of your product or service</li>
+
+
+
+<li>Inserting a quick video presentation that highlights your product&#8217;s ability to solve a problem</li>
+
+
+
+<li>Displaying a comprehensive pricing plan</li>
+
+
+
+<li>Showcasing a potential list of clients your company previously worked with</li>
+</ul>
+
+
+
+<p>Accompanied by a compelling tagline that defines your product, these steps are vital components in the process of positioning a new product on the market.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">5. Free Trial Landing Page Wireframe Template</h2>
+
+
+
+<p>If you&#8217;re a software company, a free trial landing page could be the key to unlocking growth and acquiring new customers.&nbsp;</p>
+
+
+
+<p>Depending on the complexity of your product and overall strategy, this page can be the perfect opportunity to show potential customers how your product or service can best serve their goals.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://moqups.com/templates/wireframes-mockups/free-trial-landing-page/" target="_blank" rel="noopener noreferrer"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://moqups.com/blog/wp-content/uploads/2020/03/free_trial_lp-1.png" alt="Free Trial Landing Page Wireframe Template" class="wp-image-2750" title="Free Trial Landing Page Wireframe Template" srcset="https://moqups.com/blog/wp-content/uploads/2020/03/free_trial_lp-1.png 1024w, https://moqups.com/blog/wp-content/uploads/2020/03/free_trial_lp-1-300x300.png 300w, https://moqups.com/blog/wp-content/uploads/2020/03/free_trial_lp-1-150x150.png 150w, https://moqups.com/blog/wp-content/uploads/2020/03/free_trial_lp-1-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<p>The <a href="https://moqups.com/templates/wireframes-mockups/free-trial-landing-page/" target="_blank" rel="noreferrer noopener" aria-label="free trial landing page template (opens in a new tab)">free trial landing page template</a> we offer includes the following main sections that can quickly provide users with an insight into your product:</p>
+
+
+
+<ul>
+<li>Feature display</li>
+
+
+
+<li>Promotional video</li>
+
+
+
+<li>Benefits display&nbsp;</li>
+
+
+
+<li>Pricing plans</li>
+</ul>
+
+
+
+<p>As one of our free wireframe templates, you can use this tool to allow new users to test a product for a limited amount of time. During this period, you&#8217;ll then be able to build a relationship with them, earn trust, and retain them for a long time.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">6. Career Page Wireframe Template</h2>
+
+
+
+<p>When your product is growing, you want to make sure you keep the momentum going. This is why it&#8217;s essential to have everything set in place for when you will be looking to attract and hire new talent that can further accelerate growth.&nbsp;</p>
+
+
+
+<p>One of the ways you can prepare the ground for massive hiring rates is to add a career page to your website. The importance of this page can often be overlooked, and its efficiency can easily be underestimated. However, it is a crucial element for a successful recruitment process.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://moqups.com/templates/wireframes-mockups/career-page/" target="_blank" rel="noopener noreferrer"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://moqups.com/blog/wp-content/uploads/2020/03/career_lp.png" alt="Career Page Wireframe Template" class="wp-image-2751" title="Career Page Wireframe Template" srcset="https://moqups.com/blog/wp-content/uploads/2020/03/career_lp.png 1024w, https://moqups.com/blog/wp-content/uploads/2020/03/career_lp-300x300.png 300w, https://moqups.com/blog/wp-content/uploads/2020/03/career_lp-150x150.png 150w, https://moqups.com/blog/wp-content/uploads/2020/03/career_lp-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<p>We have created a <a rel="noreferrer noopener" aria-label="career page wireframe template (opens in a new tab)" href="https://moqups.com/templates/wireframes-mockups/career-page/" target="_blank">career page wireframe template</a> that will put a spotlight on your company&#8217;s culture and attract the right kind of crowd. Adding this page to your website using our wireframe template automatically integrates strategic sections that highlight the key elements in your company that have a significant impact on outside perception.&nbsp;</p>
+
+
+
+<p>Here are the main sections you&#8217;ll be able to quickly incorporate into your page:</p>
+
+
+
+<ul>
+<li>A brief company introduction</li>
+
+
+
+<li>Benefits and perks</li>
+
+
+
+<li>A video presentation</li>
+
+
+
+<li>Your company&#8217;s core values</li>
+
+
+
+<li>Team presentation</li>
+
+
+
+<li>Open positions</li>
+
+
+
+<li>Testimonials</li>
+
+
+
+<li>The &#8216;Apply Now&#8217; form&nbsp;</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">7. Blog Page Wireframe Template</h2>
+
+
+
+<p>SaaS is an ever-changing industry. Every day is different from the one before: new tech companies emerge out of nowhere, while the more prominent players absorb the smaller ones. It&#8217;s one of the most competitive industries in the world. Survival can quickly become a struggle, and prosperity can sometimes be put on hold for years.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://moqups.com/templates/wireframes-mockups/blog-page/" target="_blank" rel="noopener noreferrer"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://moqups.com/blog/wp-content/uploads/2020/03/blog_page.png" alt="Blog Page Wireframe Template" class="wp-image-2755" title="Blog Page Wireframe Template" srcset="https://moqups.com/blog/wp-content/uploads/2020/03/blog_page.png 1024w, https://moqups.com/blog/wp-content/uploads/2020/03/blog_page-300x300.png 300w, https://moqups.com/blog/wp-content/uploads/2020/03/blog_page-150x150.png 150w, https://moqups.com/blog/wp-content/uploads/2020/03/blog_page-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<p>Because of this unstable background, it has become more crucial than ever for companies to find their voices. An easy way to do this is through content. A blog is a perfect platform for SaaS companies to communicate with their communities, share ideas, and employ thought leadership strategies that can provide answers on specific topics for various audiences.&nbsp;</p>
+
+
+
+<p>Our <a href="https://moqups.com/templates/wireframes-mockups/blog-page/" target="_blank" rel="noreferrer noopener" aria-label="blog page wireframe template (opens in a new tab)">blog page wireframe template</a> has been designed to help you craft a practical and stylish homepage for your blog. You&#8217;ll be able to display the latest articles, as well as a curated selection of the most popular ones. You can also highlight the newest items based on categories. On the side, you&#8217;ll discover a healthy mix of call-to-action sections where users can add in their email address and subscribe to upcoming newsletters.&nbsp;</p>
+
+
+
+<p>Moqups offers a wide variety of free wireframe templates you can use, whether you&#8217;re in a B2B or in the B2C industry. Check out more <a href="https://moqups.com/templates/wireframes-mockups/" target="_blank" rel="noreferrer noopener" aria-label="wireframe templates (opens in a new tab)">wireframe templates</a>, select the one that fits your project and integrate it into your work. You&#8217;ll see how easy starting a new project can be with our ready-to-use templates.&nbsp;</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-11 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button aligncenter"><a class="wp-block-button__link wp-element-button" href="https://moqups.com/templates/wireframes-mockups/?utm_source=blog&amp;utm_medium=article&amp;utm_campaign=moqups" title="https://moqups.com/templates/wireframes-mockups/?utm_source=blog&amp;utm_medium=article&amp;utm_campaign=moqups" target="_blank" rel="noreferrer noopener">Discover more wireframes</a></div>
+</div>
+
+
+
+<p></p>
+<p>The post <a href="https://moqups.com/blog/free-wireframe-templates-saas/">7 Free Wireframe Templates for SaaS &#038; Software Companies</a> appeared first on <a href="https://moqups.com/blog">The Moqups Blog | Mockup, Wireframe &amp; UI Prototyping News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>9 Free Landing Page Templates Guaranteed to Convert</title>
+		<link>https://moqups.com/blog/free-landing-page-templates/</link>
+		
+		<dc:creator><![CDATA[Moqups Team]]></dc:creator>
+		<pubDate>Tue, 10 Mar 2020 15:22:29 +0000</pubDate>
+				<category><![CDATA[Best Practices]]></category>
+		<category><![CDATA[Templates]]></category>
+		<category><![CDATA[wireframe]]></category>
+		<category><![CDATA[Wireframing]]></category>
+		<guid isPermaLink="false">https://moqups.com/blog/?p=2711</guid>
+
+					<description><![CDATA[<p>Below you&#8217;ll find a curated list of free landing page templates, courtesy of Moqups. They are designed to help you increase people&#8217;s awareness about your products or services while offering the tools to convert them into loyal customers. Be sure to check them out before you kickstart your next promotional campaign. Looking for a wireframe [&#8230;]</p>
+<p>The post <a href="https://moqups.com/blog/free-landing-page-templates/">9 Free Landing Page Templates Guaranteed to Convert</a> appeared first on <a href="https://moqups.com/blog">The Moqups Blog | Mockup, Wireframe &amp; UI Prototyping News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Below you&#8217;ll find a curated list of free landing page templates, courtesy of Moqups. They are designed to help you increase people&#8217;s awareness about your products or services while offering the tools to convert them into loyal customers. Be sure to check them out before you kickstart your next promotional campaign.</p>
+
+
+
+<pre class="wp-block-verse"><strong>Looking for a wireframe tool for your whole team?</strong>
+
+Moqups makes it easy for remote teams to work together, from anywhere, and collaborate in real time.
+
+Over 2,000,000 users choose Moqups to take ideas from concept to creation. <a href="https://moqups.com/wireframe-tool/">Find out why</a>.</pre>
+
+
+
+<h2 class="wp-block-heading">1. Event Landing Page Wireframe</h2>
+
+
+
+<p>While for some hosting an event is a pleasant activity, for others it can be quite a challenge. Things can go astray in a blink of an eye, so it comes as no surprise that it takes a certain type of personality to manage event organization successfully.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://moqups.com/templates/wireframes-mockups/event-landing-page/" target="_blank" rel="noopener noreferrer"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://moqups.com/blog/wp-content/uploads/2020/03/event_lp.png" alt="landing page template wireframe informing about upcoming event and  tickets for it" class="wp-image-2714" title="event landing page wireframe template" srcset="https://moqups.com/blog/wp-content/uploads/2020/03/event_lp.png 1024w, https://moqups.com/blog/wp-content/uploads/2020/03/event_lp-300x300.png 300w, https://moqups.com/blog/wp-content/uploads/2020/03/event_lp-150x150.png 150w, https://moqups.com/blog/wp-content/uploads/2020/03/event_lp-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Event Landing Page Template</figcaption></figure>
+
+
+
+<p>Although there are a thousand things that could go wrong, there is one thing that, if done right, can make a world of difference. Event promotion is the vital component in this process, and, when done correctly, it can set your event up for success.</p>
+
+
+
+<p>Nowadays, the best way to promote any event is to go online. So, you can use our <a aria-label="event landing page wireframe template (opens in a new tab)" rel="noreferrer noopener" target="_blank" href="https://moqups.com/templates/wireframes-mockups/event-landing-page/">event landing page wireframe template</a> and build pages that focus on portraying upcoming events and targeting key audiences, while resonating with your company&#8217;s vision and mission.</p>
+
+
+
+<p>You can adjust this wireframe template to create a variety of event landing pages that fit your general tone of voice. You&#8217;ll also be able to highlight top speakers, include testimonials from past attendees or emphasize vital benefits.</p>
+
+
+
+<h2 class="wp-block-heading">2. Webinar Landing Page Template</h2>
+
+
+
+<p>If hosting a webinar is high on your priority list, one of the most efficient methods of spreading the news is through online campaigns. But, how does a successful campaign look like in this context? </p>
+
+
+
+<p>The answer is simple: it helps you reach as many potential participants as possible. Designing a landing page that serves this purpose can be the element that will define the success of your next online campaign.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://moqups.com/templates/wireframes-mockups/webinar-landing-page/" target="_blank" rel="noopener noreferrer"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://moqups.com/blog/wp-content/uploads/2020/03/webinar_lp.png" alt="mockup of a page informing about upcoming webinar with visible countdown clock" class="wp-image-2715" title="webinar landing page wireframe template" srcset="https://moqups.com/blog/wp-content/uploads/2020/03/webinar_lp.png 1024w, https://moqups.com/blog/wp-content/uploads/2020/03/webinar_lp-300x300.png 300w, https://moqups.com/blog/wp-content/uploads/2020/03/webinar_lp-150x150.png 150w, https://moqups.com/blog/wp-content/uploads/2020/03/webinar_lp-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Webinar Landing Page Template</figcaption></figure>
+
+
+
+<p>Our <a rel="noreferrer noopener" aria-label="webinar landing page wireframe template (opens in a new tab)" href="https://moqups.com/templates/wireframes-mockups/webinar-landing-page/" target="_blank">webinar landing page wireframe template</a> is the ideal tool to use when promoting upcoming webinars. Use the benefits section to attract participants by highlighting key takeaways. Share your webinar schedule so that everyone knows what to expect and when to expect it. Lastly, you can also emphasize key speakers in the dedicated section located at the bottom of this free landing page template.</p>
+
+
+
+<h2 class="wp-block-heading">3. Ebook Landing Page Wireframe</h2>
+
+
+
+<p>An ebook launch is a significant step in a writer&#8217;s career, which is why it&#8217;s essential to ensure that even the smallest details are set in place properly. Promotional aspects may sometimes be overlooked, even though they can have a major impact on how the ebook is perceived from the very beginning.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://moqups.com/templates/wireframes-mockups/ebook-landing-page/" target="_blank" rel="noopener noreferrer"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://moqups.com/blog/wp-content/uploads/2020/03/ebook_lp.png" alt="Mockup of a e-book promotional landing page" class="wp-image-2716" title="ebook landing page wireframe template" srcset="https://moqups.com/blog/wp-content/uploads/2020/03/ebook_lp.png 1024w, https://moqups.com/blog/wp-content/uploads/2020/03/ebook_lp-300x300.png 300w, https://moqups.com/blog/wp-content/uploads/2020/03/ebook_lp-150x150.png 150w, https://moqups.com/blog/wp-content/uploads/2020/03/ebook_lp-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Ebook Landing Page Template</figcaption></figure>
+
+
+
+<p>The good news is that now it&#8217;s easier than ever to advertise upcoming ebooks. We provide the <a href="https://moqups.com/templates/wireframes-mockups/ebook-landing-page/">ebook landing page wireframe template</a>, a tool designed to help you build pages where you can share valuable details on your product, which you can then promote to make sure it reaches as many people as possible. Our free landing page template helps you focus on specific sections such as:</p>
+
+
+
+<ul>
+<li>Ebook structure</li>
+
+
+
+<li>Benefits</li>
+
+
+
+<li>Author overview</li>
+
+
+
+<li>Testimonials</li>
+
+
+
+<li>Strategically placed call-to-action buttons</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">4. Workshop Landing Page Wireframe</h2>
+
+
+
+<p>As with other types of events, workshops require a complex set of preparations as well. From knowing the main topic of discussion inside out to working out aspects such as staffing or advertising, hosting a workshop is no easy task.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://moqups.com/templates/wireframes-mockups/workshop-landing-page/" target="_blank" rel="noopener noreferrer"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://moqups.com/blog/wp-content/uploads/2020/03/workshop_lp.png" alt="Wireframe of a website about registration for workshop" class="wp-image-2717" title="workshop landing page wireframe template" srcset="https://moqups.com/blog/wp-content/uploads/2020/03/workshop_lp.png 1024w, https://moqups.com/blog/wp-content/uploads/2020/03/workshop_lp-300x300.png 300w, https://moqups.com/blog/wp-content/uploads/2020/03/workshop_lp-150x150.png 150w, https://moqups.com/blog/wp-content/uploads/2020/03/workshop_lp-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Workshop Landing Page Template</figcaption></figure>
+
+
+
+<p>To make life easier, we&#8217;ve created a <a href="https://moqups.com/templates/wireframes-mockups/workshop-landing-page/" target="_blank" rel="noreferrer noopener" aria-label="workshop landing page wireframe template (opens in a new tab)">workshop landing page wireframe template</a> that will help you to promote your event successfully. You can now create an engaging landing page that will put your workshop in the spotlight by making use of a set of strategically placed sections such as:&nbsp;</p>
+
+
+
+<ul>
+<li>Workshop description&nbsp;</li>
+
+
+
+<li>Complete schedule</li>
+
+
+
+<li>Testimonials</li>
+
+
+
+<li>Administrative details on fees and registration</li>
+
+
+
+<li>Speaker information</li>
+
+
+
+<li>Contact details</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">5. Contest Landing Page Template</h2>
+
+
+
+<p>Contests are excellent tools that help companies reach new people, expand customer databases, and increase the popularity of a product. One could state that their main goal is to get people talking about the company standing behind them.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://moqups.com/templates/wireframes-mockups/contest-landing-page/" target="_blank" rel="noopener noreferrer"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://moqups.com/blog/wp-content/uploads/2020/03/contest_lp.png" alt="mockup of a page about contest with prizes " class="wp-image-2718" title="contest landing page wireframe template" srcset="https://moqups.com/blog/wp-content/uploads/2020/03/contest_lp.png 1024w, https://moqups.com/blog/wp-content/uploads/2020/03/contest_lp-300x300.png 300w, https://moqups.com/blog/wp-content/uploads/2020/03/contest_lp-150x150.png 150w, https://moqups.com/blog/wp-content/uploads/2020/03/contest_lp-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Contest Landing Page Template</figcaption></figure>
+
+
+
+<p>But contests also represent a playful way for businesses to interact with new or existing customers. When executed with an out-of-the-box mindset, they can often go viral. Two elements can determine the virality rate of any given contest: the concept and the promotional strategy around it.&nbsp;</p>
+
+
+
+<p>While coming up with the concept involves a lot of creativity, creating a promotional strategy around it, requires a healthy mix of creativity, resources, and knowledge. Our <a rel="noreferrer noopener" aria-label="contest landing page wireframe template (opens in a new tab)" href="https://moqups.com/templates/wireframes-mockups/contest-landing-page/" target="_blank">contest landing page wireframe template</a> is a game-changer, and it is now available to support your promotional efforts. Using this wireframe template will help you build landing pages that address basic questions about your contest, such as:</p>
+
+
+
+<ul>
+<li>What is this contest about?</li>
+
+
+
+<li>What are the available prizes?</li>
+
+
+
+<li>How can people enter the contest?</li>
+
+
+
+<li>Who can enter? What are the eligibility requirements?</li>
+
+
+
+<li>What are the terms and conditions of attending this contest?</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">6. Online Course Landing Page Wireframe</h2>
+
+
+
+<p>There is one vital element that can boost attendance rates if you&#8217;re planning to host an online course, and that is online promotion. Creating a campaign around your upcoming session will not only help you reach as many people as possible, but it will also reinforce your online presence, as well as help you gain more leads.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://moqups.com/templates/wireframes-mockups/online-course-landing-page/" target="_blank" rel="noopener noreferrer"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://moqups.com/blog/wp-content/uploads/2020/03/online_course_lp.png" alt="wireframe of website about online courses" class="wp-image-2719" title="online course landing page wireframe template" srcset="https://moqups.com/blog/wp-content/uploads/2020/03/online_course_lp.png 1024w, https://moqups.com/blog/wp-content/uploads/2020/03/online_course_lp-300x300.png 300w, https://moqups.com/blog/wp-content/uploads/2020/03/online_course_lp-150x150.png 150w, https://moqups.com/blog/wp-content/uploads/2020/03/online_course_lp-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Online Course Landing Page Template</figcaption></figure>
+
+
+
+<p>We bring you <a rel="noreferrer noopener" aria-label="the online course landing page template (opens in a new tab)" href="https://moqups.com/templates/wireframes-mockups/online-course-landing-page/" target="_blank">the online course landing page template</a> &#8211; a wireframing tool you can use to create landing pages that will specifically target and advertise online courses. It is one of our responsive landing page templates, and the best bit is that you can adjust it to match your overall advertising strategy or the topic of your online course.&nbsp;</p>
+
+
+
+<p>You can use the sections we&#8217;ve provided to address fundamental questions such as:</p>
+
+
+
+<ul>
+<li>What is the course about?</li>
+
+
+
+<li>Who is this course for?&nbsp;</li>
+
+
+
+<li>What are the main modules of the course?</li>
+</ul>
+
+
+
+<p>You will also be able to offer more details on the instructor&#8217;s background and add in testimonials from past attendees. Don&#8217;t forget to reinforce your main call-to-action: place it strategically across multiple locations on the page, so that visitors can act upon it in a fast and easy manner.</p>
+
+
+
+<h2 class="wp-block-heading">7. Lead Capture Landing Page Wireframe</h2>
+
+
+
+<p>Are you working tirelessly towards acquiring new leads? If the answer is yes and you need a new strategy, here is our two cents: build a lead capture landing page. This page will not only reinforce your brand&#8217;s image in front of existing customers, but it will also provide you with the opportunity of reaching new ones. What&#8217;s more, it will automate your lead acquisition strategy, and you&#8217;ll find it easy to integrate into your company&#8217;s marketing efforts.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://moqups.com/templates/wireframes-mockups/lead-capture-landing-page/" target="_blank" rel="noopener noreferrer"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://moqups.com/blog/wp-content/uploads/2020/03/lead_capture_lp.png" alt="wireframe of a web page made to capture leads" class="wp-image-2720" title="lead capture landing page wireframe template" srcset="https://moqups.com/blog/wp-content/uploads/2020/03/lead_capture_lp.png 1024w, https://moqups.com/blog/wp-content/uploads/2020/03/lead_capture_lp-300x300.png 300w, https://moqups.com/blog/wp-content/uploads/2020/03/lead_capture_lp-150x150.png 150w, https://moqups.com/blog/wp-content/uploads/2020/03/lead_capture_lp-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Lead Capture Landing Page Template</figcaption></figure>
+
+
+
+<p>The <a aria-label="lead capture landing page wireframe template (opens in a new tab)" rel="noreferrer noopener" target="_blank" href="https://moqups.com/templates/wireframes-mockups/lead-capture-landing-page/">lead capture landing page wireframe template</a> is a tool you can use to build a page designed specifically to attract new leads. On this page, you&#8217;ll be able to share valuable information on your products or services by filling in sections that are crucial for customers&#8217; understanding. As a result, you&#8217;ll have the opportunity to formulate answers for the following set of questions:&nbsp;</p>
+
+
+
+<ul>
+<li>What is your company&#8217;s main statement?</li>
+
+
+
+<li>What are the best features of your products/services?&nbsp;</li>
+
+
+
+<li>Which are the top benefits of your products/services?</li>
+
+
+
+<li>Why should people use your products? </li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">8. Free Trial Landing Page Template</h2>
+
+
+
+<p>Never underestimate the importance of a free trial. The more complex your product is, the less likely people are going to be to buy it right away.&nbsp;</p>
+
+
+
+<p>Before any purchasing decision is made, your potential customers will browse around, look up competitors, and compare your product to others. They will ask themselves questions such as: which product has the best features and is the most beneficial to my work? Which product is the most cost-effective? And, if I pay a higher price, how will that cost be justified?</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://moqups.com/templates/wireframes-mockups/free-trial-landing-page/" target="_blank" rel="noopener noreferrer"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://moqups.com/blog/wp-content/uploads/2020/03/free_trial_lp.png" alt="wireframe of a website promoting 30-day free trial" class="wp-image-2721" title="free trial landing page wireframe template" srcset="https://moqups.com/blog/wp-content/uploads/2020/03/free_trial_lp.png 1024w, https://moqups.com/blog/wp-content/uploads/2020/03/free_trial_lp-300x300.png 300w, https://moqups.com/blog/wp-content/uploads/2020/03/free_trial_lp-150x150.png 150w, https://moqups.com/blog/wp-content/uploads/2020/03/free_trial_lp-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Free Trial Landing Page Wireframe</figcaption></figure>
+
+
+
+<p>Offering them the possibility of a free trial will not only answer these questions, but it will also help them understand your product better, and you&#8217;ll also be able to alleviate any doubts.&nbsp;</p>
+
+
+
+<p>Bring your team together and start brainstorming ideas for setting up your next free trial. One of our free landing page templates, the <a rel="noreferrer noopener" aria-label="free trial landing page wireframe template (opens in a new tab)" href="https://moqups.com/templates/wireframes-mockups/free-trial-landing-page/" target="_blank">free trial landing page wireframe template</a>, is an excellent starting point in this process. This wireframe template lets you integrate key sections into your landing page such as:&nbsp;</p>
+
+
+
+<ul>
+<li>Product features</li>
+
+
+
+<li>Promotional video</li>
+
+
+
+<li>Key benefits</li>
+
+
+
+<li>Pricing plans</li>
+
+
+
+<li>Call-to-action buttons</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">9. SaaS Landing Page Wireframe</h2>
+
+
+
+<p>One of the best ways to introduce a new SaaS product on the market is to build a unique landing page that will focus solely on presenting features and benefits while helping potential customers understand what exactly makes your product stand out.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://moqups.com/templates/wireframes-mockups/saas-landing-page/" target="_blank" rel="noopener noreferrer"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://moqups.com/blog/wp-content/uploads/2020/03/saas_lp.png" alt="low fidelity mockup of a software company website" class="wp-image-2722" title="saas landing page wireframe template" srcset="https://moqups.com/blog/wp-content/uploads/2020/03/saas_lp.png 1024w, https://moqups.com/blog/wp-content/uploads/2020/03/saas_lp-300x300.png 300w, https://moqups.com/blog/wp-content/uploads/2020/03/saas_lp-150x150.png 150w, https://moqups.com/blog/wp-content/uploads/2020/03/saas_lp-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">SaaS Landing Page Template</figcaption></figure>
+
+
+
+<p>Moqups offers you a <a rel="noreferrer noopener" aria-label="SaaS landing page wireframe template (opens in a new tab)" href="https://moqups.com/templates/wireframes-mockups/saas-landing-page/" target="_blank">SaaS landing page wireframe template</a> you can use to create pages designed to advertise your products or services &#8211; this is yet another one of our free landing page templates and includes the following sections:&nbsp;</p>
+
+
+
+<ul>
+<li>Compelling tagline accompanied by a call-to-action button</li>
+
+
+
+<li>Multiple benefits sections</li>
+
+
+
+<li>Presentation video</li>
+
+
+
+<li>Pricing plans</li>
+
+
+
+<li>List of world-renowned company clients</li>
+</ul>
+
+
+
+<p>When editing this template, you can easily delete, add, or substitute existing sections with those that fit your product best. This way you can ensure that the final version of this page will stand out and will boost customer acquisition rates.</p>
+
+
+
+<p>Are you interested in more free landing page templates? Head to our template library &#8211; this is where you&#8217;ll find a varied collection of <a rel="noreferrer noopener" aria-label="wireframe templates (opens in a new tab)" href="https://moqups.com/templates/wireframes-mockups/" target="_blank">wireframe templates</a> you can easily use to build those landing pages that add value to your business strategy. We are also continually updating our collection, so if there&#8217;s anything specific that you&#8217;d like to see, don&#8217;t hesitate to get in touch. We&#8217;d love to hear your thoughts!&nbsp;</p>
+<p>The post <a href="https://moqups.com/blog/free-landing-page-templates/">9 Free Landing Page Templates Guaranteed to Convert</a> appeared first on <a href="https://moqups.com/blog">The Moqups Blog | Mockup, Wireframe &amp; UI Prototyping News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Website Wireframe Examples: 4 Templates to Kickstart Your Next Project</title>
+		<link>https://moqups.com/blog/website-wireframe-examples/</link>
+		
+		<dc:creator><![CDATA[Moqups Team]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2020 14:24:06 +0000</pubDate>
+				<category><![CDATA[Best Practices]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[Templates]]></category>
+		<category><![CDATA[wireframe]]></category>
+		<category><![CDATA[Wireframing]]></category>
+		<guid isPermaLink="false">https://moqups.com/blog/?p=2657</guid>
+
+					<description><![CDATA[<p>Looking for a wireframe tool for your whole team? Moqups makes it easy for remote teams to work together, from anywhere, and collaborate in real time. Over 2,000,000 teams choose Moqups to take ideas from concept to creation. Find out why &#62; Wireframes are vital tools used mostly by designers to build new websites or [&#8230;]</p>
+<p>The post <a href="https://moqups.com/blog/website-wireframe-examples/">Website Wireframe Examples: 4 Templates to Kickstart Your Next Project</a> appeared first on <a href="https://moqups.com/blog">The Moqups Blog | Mockup, Wireframe &amp; UI Prototyping News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<pre class="wp-block-verse"><strong>Looking for a wireframe tool for your whole team?</strong>
+
+Moqups makes it easy for remote teams to work together, from anywhere, and collaborate in real time.
+
+Over 2,000,000 teams choose Moqups to take ideas from concept to creation. <a href="https://moqups.com/wireframe-tool/">Find out why &gt;</a></pre>
+
+
+
+<p>Wireframes are vital tools used mostly by designers to build new websites or landing pages. They provide the overall layout of a page while focusing on the relationships developed between the various interface elements. We&#8217;ve compiled a list of four website wireframe examples that are guaranteed to help you kickstart any upcoming projects successfully.</p>
+
+
+
+<h2 class="wp-block-heading">1. Ecommerce Website Wireframe Template</h2>
+
+
+
+<p>Moqups brings you a bundle of wireframe templates you can use to build an online e-commerce shop from scratch. You&#8217;ll be able to find a wireframe template for every basic page on your website and use it to create pages that attract visitors and bring in conversions.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large no-border"><a href="https://moqups.com/templates/wireframes-mockups/ecommerce-wireframe/" target="_blank" rel="noopener noreferrer"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://moqups.com/blog/wp-content/uploads/2020/02/Screen4b.png" alt="product page wireframe template" class="wp-image-2692" title="product page wireframe template" srcset="https://moqups.com/blog/wp-content/uploads/2020/02/Screen4b.png 1024w, https://moqups.com/blog/wp-content/uploads/2020/02/Screen4b-300x300.png 300w, https://moqups.com/blog/wp-content/uploads/2020/02/Screen4b-150x150.png 150w, https://moqups.com/blog/wp-content/uploads/2020/02/Screen4b-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Example of a product page wireframe template</figcaption></figure>
+
+
+
+<p>We wanted to make it as easy as possible for you to set up your online e-commerce store, which is why our<a rel="noreferrer noopener" aria-label=" e-commerce website wireframe template (opens in a new tab)" href="https://moqups.com/templates/wireframes-mockups/ecommerce-wireframe/" target="_blank"> e-commerce website wireframe template</a> bundle can be used to create the following page types:&nbsp;</p>
+
+
+
+<ul>
+<li>Homepage</li>
+
+
+
+<li>Product pages</li>
+
+
+
+<li>Shopping cart</li>
+
+
+
+<li>Shipping details</li>
+
+
+
+<li>Payment methods</li>
+</ul>
+
+
+
+<p>You can edit and adapt these wireframes to meet your needs in a matter of minutes. Once you&#8217;ve created your free account with Moqups, you&#8217;ll be able to set up the very first draft of your online store.</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-12 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button orange aligncenter"><a class="wp-block-button__link wp-element-button" href="https://app.moqups.com/sign-up/?utm_source=blog&amp;utm_medium=article&amp;utm_campaign=moqups" title="https://app.moqups.com/sign-up/?utm_source=blog&amp;utm_medium=article&amp;utm_campaign=moqups" target="_blank" rel="noreferrer noopener">Create a free account</a></div>
+</div>
+
+
+
+<h2 class="wp-block-heading">2. Pricing Page Wireframe Template</h2>
+
+
+
+<p>This is yet another one of our website wireframe examples. It is an essential tool for B2B companies to use when creating pricing pages, as it displays a comprehensive overview of product features in comparison to the overall cost.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large no-border"><a href="https://moqups.com/templates/wireframes-mockups/pricing-page/" target="_blank" rel="noopener noreferrer"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://moqups.com/blog/wp-content/uploads/2020/02/screen1b-1.png" alt="pricing page wireframe template" class="wp-image-2695" title="pricing page wireframe template" srcset="https://moqups.com/blog/wp-content/uploads/2020/02/screen1b-1.png 1024w, https://moqups.com/blog/wp-content/uploads/2020/02/screen1b-1-300x300.png 300w, https://moqups.com/blog/wp-content/uploads/2020/02/screen1b-1-150x150.png 150w, https://moqups.com/blog/wp-content/uploads/2020/02/screen1b-1-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Pricing page wireframe template</figcaption></figure>
+
+
+
+<p>A robust pricing page features user-friendly content. The information it presents should not only be easy to understand, but it should also be transparent, detailed, and easy to read. With this in mind, our <a rel="noreferrer noopener" aria-label="pricing page wireframe template (opens in a new tab)" href="https://moqups.com/templates/wireframes-mockups/pricing-page/" target="_blank">pricing page wireframe template</a> integrates three main sections that will help you reach conversion goals faster:&nbsp;</p>
+
+
+
+<ul>
+<li>Standard pricing plans</li>
+
+
+
+<li>Detailed feature comparison for every pricing plan</li>
+
+
+
+<li>FAQ section&nbsp;</li>
+</ul>
+
+
+
+<p>Some users might know what they&#8217;re looking for, while others might feel a bit lost &#8211; this is why it&#8217;s always best to be prepared when it comes to pricing information. If you&#8217;re dealing with the latter scenario, our template can help you offer accurate and transparent information. Organize data into carefully curated sections and provide users with the opportunity to reach out &#8211; this is the key to establishing long-lasting relationships and building trust.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">3. Landing Page Wireframe Template</h2>
+
+
+
+<p>You can use this template to craft landing pages that will attract and engage new users, boost conversion rates, and ensure the success of your campaigns. This is a generic <a rel="noreferrer noopener" aria-label="landing page wireframe template (opens in a new tab)" href="https://moqups.com/templates/wireframes-mockups/landing-page-wireframe/" target="_blank">landing page wireframe template</a>, which means that you can use it in multiple instances. Edit it as you wish to ensure that, in the end, it matches your needs and helps you achieve your goals.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://moqups.com/templates/wireframes-mockups/landing-page-wireframe/" target="_blank" rel="noopener noreferrer"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://moqups.com/blog/wp-content/uploads/2020/02/screen2b.png" alt="landing page wireframe template" class="wp-image-2696" title="landing page wireframe template" srcset="https://moqups.com/blog/wp-content/uploads/2020/02/screen2b.png 1024w, https://moqups.com/blog/wp-content/uploads/2020/02/screen2b-300x300.png 300w, https://moqups.com/blog/wp-content/uploads/2020/02/screen2b-150x150.png 150w, https://moqups.com/blog/wp-content/uploads/2020/02/screen2b-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Landing page wireframe template</figcaption></figure>
+
+
+
+<p>Moqups offers two layout options for your next landing page. You can choose to build a page using an authentic hero image, or you can make things more exciting and add in a video that describes your product or service and instantly captures your visitors&#8217; attention. Your new landing page will be ready in a matter of minutes, plus you&#8217;ll be able to share your work with other collaborators and receive feedback right away!</p>
+
+
+
+<h2 class="wp-block-heading">4. Blog Page Wireframe Template</h2>
+
+
+
+<p>Are you thinking about starting a blog? If the answer is yes, then you should start building your website right away. Remember that while every page type needs special care and attention, the homepage will be the one to take up most of your time and resources. All this may sound discouraging at first, but with our <a href="https://moqups.com/templates/wireframes-mockups/blog-page/" target="_blank" rel="noreferrer noopener" aria-label="blog page wireframe template (opens in a new tab)">blog page wireframe template</a>, the last one of the website wireframe examples discussed here, the task of setting up a blog can be significantly simplified.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://moqups.com/templates/wireframes-mockups/blog-page/" target="_blank" rel="noopener noreferrer"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://moqups.com/blog/wp-content/uploads/2020/02/Screen3b.png" alt="blog page wireframe template" class="wp-image-2697" title="blog page wireframe template" srcset="https://moqups.com/blog/wp-content/uploads/2020/02/Screen3b.png 1024w, https://moqups.com/blog/wp-content/uploads/2020/02/Screen3b-300x300.png 300w, https://moqups.com/blog/wp-content/uploads/2020/02/Screen3b-150x150.png 150w, https://moqups.com/blog/wp-content/uploads/2020/02/Screen3b-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption class="wp-element-caption">Blog page wireframe template</figcaption></figure>
+
+
+
+<p>Our ready-to-use template can be easily edited and adapted to fit your blog&#8217;s purpose and requirements. Not only you won&#8217;t have to start designing your blog&#8217;s homepage from scratch, but you&#8217;ll work with a robust structure that will highlight topics of interest helping you to gain and retain new users on a daily basis.</p>
+
+
+
+<p>Although these are only a few examples, we offer our users a much wider variety of wireframe templates. Head to our collection of <a rel="noreferrer noopener" aria-label="wireframe templates (opens in a new tab)" href="https://moqups.com/templates/wireframes-mockups/" target="_blank">wireframe templates</a> and discover more wireframes that you can easily integrate into your upcoming projects for free.</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-13 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button aligncenter"><a class="wp-block-button__link wp-element-button" href="https://moqups.com/?utm_source=blog&amp;utm_medium=article&amp;utm_campaign=moqups" title="https://moqups.com/?utm_source=blog&amp;utm_medium=article&amp;utm_campaign=moqups" target="_blank" rel="noreferrer noopener">Learn more about Moqups</a></div>
+</div>
+
+
+
+<p></p>
+<p>The post <a href="https://moqups.com/blog/website-wireframe-examples/">Website Wireframe Examples: 4 Templates to Kickstart Your Next Project</a> appeared first on <a href="https://moqups.com/blog">The Moqups Blog | Mockup, Wireframe &amp; UI Prototyping News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
